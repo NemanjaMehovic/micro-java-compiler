@@ -1,0 +1,2687 @@
+INFO  19:17:51,177 - Compiling source file: C:\Users\neman\Desktop\PP_projekat\MJCompiler\test\test.mj
+INFO  19:17:51,243 - #2 program
+INFO  19:17:51,243 - #49 test302
+INFO  19:17:51,244 - #6 const
+INFO  19:17:51,245 - #49 int
+INFO  19:17:51,245 - #49 jedan
+INFO  19:17:51,246 - #35 =
+INFO  19:17:51,246 - #48 1
+INFO  19:17:51,246 - #38 ;
+INFO  19:17:51,246 - #49 int
+INFO  19:17:51,246 - #49 i
+INFO  19:17:51,247 - #38 ;
+INFO  19:17:51,248 - #49 bool
+INFO  19:17:51,248 - #49 ibool
+INFO  19:17:51,248 - #38 ;
+INFO  19:17:51,248 - #49 int
+INFO  19:17:51,248 - #49 niz2
+INFO  19:17:51,248 - #38 ;
+INFO  19:17:51,248 - #49 int
+INFO  19:17:51,248 - #49 niz
+INFO  19:17:51,248 - #44 [
+INFO  19:17:51,248 - #45 ]
+INFO  19:17:51,249 - #38 ;
+INFO  19:17:51,249 - #49 int
+INFO  19:17:51,249 - #49 a
+INFO  19:17:51,249 - #38 ;
+INFO  19:17:51,249 - #46 {
+INFO  19:17:51,249 - #49 int
+INFO  19:17:51,249 - #49 sum
+INFO  19:17:51,249 - #42 (
+INFO  19:17:51,249 - #49 int
+INFO  19:17:51,249 - #49 z
+INFO  19:17:51,249 - #35 =
+INFO  19:17:51,249 - #48 1
+INFO  19:17:51,249 - #40 ,
+INFO  19:17:51,250 - #49 int
+INFO  19:17:51,250 - #49 d
+INFO  19:17:51,250 - #35 =
+INFO  19:17:51,250 - #48 2
+INFO  19:17:51,250 - #43 )
+INFO  19:17:51,251 - #46 {
+INFO  19:17:51,252 - #20 return
+INFO  19:17:51,252 - #49 z
+INFO  19:17:51,252 - #30 +
+INFO  19:17:51,253 - #49 d
+INFO  19:17:51,254 - #38 ;
+INFO  19:17:51,254 - #47 }
+INFO  19:17:51,255 - #49 int
+INFO  19:17:51,256 - #49 inkrement
+INFO  19:17:51,256 - #42 (
+INFO  19:17:51,256 - #49 int
+INFO  19:17:51,256 - #49 a
+INFO  19:17:51,256 - #40 ,
+INFO  19:17:51,256 - #49 int
+INFO  19:17:51,256 - #49 inc
+INFO  19:17:51,256 - #35 =
+INFO  19:17:51,256 - #48 1
+INFO  19:17:51,256 - #43 )
+INFO  19:17:51,256 - #49 int
+INFO  19:17:51,256 - #49 pom
+INFO  19:17:51,256 - #38 ;
+INFO  19:17:51,257 - #46 {
+INFO  19:17:51,257 - #16 if
+INFO  19:17:51,257 - #42 (
+INFO  19:17:51,257 - #49 inc
+INFO  19:17:51,257 - #22 ==
+INFO  19:17:51,257 - #49 jedan
+INFO  19:17:51,258 - #43 )
+INFO  19:17:51,258 - #49 pom
+INFO  19:17:51,259 - #35 =
+INFO  19:17:51,259 - #48 1
+INFO  19:17:51,259 - #38 ;
+INFO  19:17:51,260 - #17 else
+INFO  19:17:51,260 - #16 if
+INFO  19:17:51,260 - #42 (
+INFO  19:17:51,260 - #49 inc
+INFO  19:17:51,260 - #22 ==
+INFO  19:17:51,260 - #48 2
+INFO  19:17:51,260 - #43 )
+INFO  19:17:51,260 - #49 pom
+INFO  19:17:51,260 - #35 =
+INFO  19:17:51,260 - #49 a
+INFO  19:17:51,260 - #38 ;
+INFO  19:17:51,260 - #20 return
+INFO  19:17:51,261 - #49 sum
+INFO  19:17:51,261 - #42 (
+INFO  19:17:51,261 - #49 a
+INFO  19:17:51,261 - #40 ,
+INFO  19:17:51,261 - #49 pom
+INFO  19:17:51,261 - #43 )
+INFO  19:17:51,262 - #38 ;
+INFO  19:17:51,262 - #47 }
+INFO  19:17:51,262 - #49 bool
+INFO  19:17:51,262 - #49 verify
+INFO  19:17:51,262 - #42 (
+INFO  19:17:51,262 - #43 )
+INFO  19:17:51,262 - #46 {
+INFO  19:17:51,263 - #8 print
+INFO  19:17:51,263 - #42 (
+INFO  19:17:51,263 - #51 v
+INFO  19:17:51,263 - #43 )
+INFO  19:17:51,263 - #38 ;
+INFO  19:17:51,263 - #20 return
+INFO  19:17:51,263 - #50 false
+INFO  19:17:51,263 - #38 ;
+INFO  19:17:51,263 - #47 }
+INFO  19:17:51,263 - #10 void
+INFO  19:17:51,263 - #49 main
+INFO  19:17:51,263 - #42 (
+INFO  19:17:51,263 - #43 )
+INFO  19:17:51,263 - #46 {
+INFO  19:17:51,263 - #8 print
+INFO  19:17:51,263 - #42 (
+INFO  19:17:51,263 - #49 sum
+INFO  19:17:51,263 - #42 (
+INFO  19:17:51,263 - #43 )
+INFO  19:17:51,264 - #43 )
+INFO  19:17:51,264 - #38 ;
+INFO  19:17:51,264 - #8 print
+INFO  19:17:51,264 - #42 (
+INFO  19:17:51,264 - #49 sum
+INFO  19:17:51,264 - #42 (
+INFO  19:17:51,264 - #48 2
+INFO  19:17:51,264 - #43 )
+INFO  19:17:51,264 - #43 )
+INFO  19:17:51,264 - #38 ;
+INFO  19:17:51,264 - #16 if
+INFO  19:17:51,264 - #42 (
+INFO  19:17:51,264 - #48 1
+INFO  19:17:51,265 - #23 !=
+INFO  19:17:51,265 - #48 1
+INFO  19:17:51,265 - #43 )
+INFO  19:17:51,265 - #8 print
+INFO  19:17:51,265 - #42 (
+INFO  19:17:51,265 - #31 -
+INFO  19:17:51,265 - #48 6
+INFO  19:17:51,265 - #43 )
+INFO  19:17:51,265 - #38 ;
+INFO  19:17:51,265 - #17 else
+INFO  19:17:51,265 - #8 print
+INFO  19:17:51,265 - #42 (
+INFO  19:17:51,266 - #48 0
+INFO  19:17:51,266 - #43 )
+INFO  19:17:51,266 - #38 ;
+INFO  19:17:51,266 - #49 ibool
+INFO  19:17:51,266 - #35 =
+INFO  19:17:51,266 - #50 false
+INFO  19:17:51,266 - #38 ;
+INFO  19:17:51,266 - #49 i
+INFO  19:17:51,266 - #35 =
+INFO  19:17:51,266 - #48 0
+INFO  19:17:51,266 - #38 ;
+INFO  19:17:51,266 - #18 do
+INFO  19:17:51,266 - #46 {
+INFO  19:17:51,267 - #16 if
+INFO  19:17:51,267 - #42 (
+INFO  19:17:51,267 - #49 i
+INFO  19:17:51,267 - #22 ==
+INFO  19:17:51,267 - #48 2
+INFO  19:17:51,267 - #43 )
+INFO  19:17:51,267 - #49 ibool
+INFO  19:17:51,267 - #35 =
+INFO  19:17:51,267 - #50 true
+INFO  19:17:51,267 - #38 ;
+INFO  19:17:51,267 - #49 i
+INFO  19:17:51,267 - #36 ++
+INFO  19:17:51,267 - #38 ;
+INFO  19:17:51,267 - #47 }
+INFO  19:17:51,267 - #19 while
+INFO  19:17:51,268 - #42 (
+INFO  19:17:51,268 - #49 i
+INFO  19:17:51,268 - #26 <
+INFO  19:17:51,268 - #48 5
+INFO  19:17:51,268 - #43 )
+INFO  19:17:51,268 - #38 ;
+INFO  19:17:51,268 - #16 if
+INFO  19:17:51,269 - #42 (
+INFO  19:17:51,269 - #49 ibool
+INFO  19:17:51,269 - #43 )
+INFO  19:17:51,269 - #16 if
+INFO  19:17:51,269 - #42 (
+INFO  19:17:51,269 - #49 i
+INFO  19:17:51,269 - #22 ==
+INFO  19:17:51,269 - #48 5
+INFO  19:17:51,269 - #43 )
+INFO  19:17:51,269 - #8 print
+INFO  19:17:51,269 - #42 (
+INFO  19:17:51,269 - #48 1
+INFO  19:17:51,269 - #43 )
+INFO  19:17:51,269 - #38 ;
+INFO  19:17:51,269 - #17 else
+INFO  19:17:51,269 - #8 print
+INFO  19:17:51,269 - #42 (
+INFO  19:17:51,269 - #31 -
+INFO  19:17:51,269 - #48 1
+INFO  19:17:51,269 - #43 )
+INFO  19:17:51,269 - #38 ;
+INFO  19:17:51,269 - #49 a
+INFO  19:17:51,269 - #35 =
+INFO  19:17:51,269 - #48 2
+INFO  19:17:51,269 - #38 ;
+INFO  19:17:51,269 - #49 niz
+INFO  19:17:51,270 - #35 =
+INFO  19:17:51,270 - #7 new
+INFO  19:17:51,270 - #49 int
+INFO  19:17:51,270 - #44 [
+INFO  19:17:51,270 - #48 3
+INFO  19:17:51,270 - #45 ]
+INFO  19:17:51,270 - #38 ;
+INFO  19:17:51,270 - #49 niz
+INFO  19:17:51,270 - #44 [
+INFO  19:17:51,270 - #48 0
+INFO  19:17:51,270 - #45 ]
+INFO  19:17:51,270 - #35 =
+INFO  19:17:51,270 - #48 1
+INFO  19:17:51,270 - #32 *
+INFO  19:17:51,270 - #49 a
+INFO  19:17:51,271 - #38 ;
+INFO  19:17:51,271 - #49 niz
+INFO  19:17:51,271 - #44 [
+INFO  19:17:51,271 - #48 1
+INFO  19:17:51,271 - #45 ]
+INFO  19:17:51,271 - #35 =
+INFO  19:17:51,271 - #48 2
+INFO  19:17:51,271 - #32 *
+INFO  19:17:51,272 - #49 a
+INFO  19:17:51,272 - #38 ;
+INFO  19:17:51,272 - #49 niz
+INFO  19:17:51,272 - #44 [
+INFO  19:17:51,272 - #48 2
+INFO  19:17:51,272 - #45 ]
+INFO  19:17:51,272 - #35 =
+INFO  19:17:51,272 - #49 sum
+INFO  19:17:51,272 - #42 (
+INFO  19:17:51,272 - #49 niz
+INFO  19:17:51,272 - #44 [
+INFO  19:17:51,272 - #48 1
+INFO  19:17:51,272 - #45 ]
+INFO  19:17:51,272 - #40 ,
+INFO  19:17:51,272 - #49 niz
+INFO  19:17:51,272 - #44 [
+INFO  19:17:51,272 - #48 0
+INFO  19:17:51,272 - #45 ]
+INFO  19:17:51,272 - #43 )
+INFO  19:17:51,272 - #32 *
+INFO  19:17:51,272 - #49 a
+INFO  19:17:51,272 - #30 +
+INFO  19:17:51,272 - #48 1
+INFO  19:17:51,272 - #38 ;
+INFO  19:17:51,272 - #16 if
+INFO  19:17:51,272 - #42 (
+INFO  19:17:51,272 - #49 verify
+INFO  19:17:51,272 - #42 (
+INFO  19:17:51,272 - #43 )
+INFO  19:17:51,272 - #29 ||
+INFO  19:17:51,272 - #49 niz
+INFO  19:17:51,273 - #44 [
+INFO  19:17:51,273 - #48 2
+INFO  19:17:51,273 - #45 ]
+INFO  19:17:51,273 - #22 ==
+INFO  19:17:51,273 - #48 4
+INFO  19:17:51,273 - #43 )
+INFO  19:17:51,273 - #8 print
+INFO  19:17:51,273 - #42 (
+INFO  19:17:51,273 - #49 ord
+INFO  19:17:51,273 - #42 (
+INFO  19:17:51,273 - #51 A
+INFO  19:17:51,273 - #43 )
+INFO  19:17:51,273 - #43 )
+INFO  19:17:51,273 - #38 ;
+INFO  19:17:51,273 - #17 else
+INFO  19:17:51,273 - #8 print
+INFO  19:17:51,273 - #42 (
+INFO  19:17:51,273 - #49 ord
+INFO  19:17:51,273 - #42 (
+INFO  19:17:51,273 - #51 a
+INFO  19:17:51,273 - #43 )
+INFO  19:17:51,273 - #43 )
+INFO  19:17:51,273 - #38 ;
+INFO  19:17:51,273 - #8 print
+INFO  19:17:51,273 - #42 (
+INFO  19:17:51,273 - #49 eol
+INFO  19:17:51,274 - #43 )
+INFO  19:17:51,274 - #38 ;
+INFO  19:17:51,274 - #49 i
+INFO  19:17:51,274 - #35 =
+INFO  19:17:51,274 - #48 0
+INFO  19:17:51,274 - #38 ;
+INFO  19:17:51,274 - #18 do
+INFO  19:17:51,274 - #46 {
+INFO  19:17:51,274 - #16 if
+INFO  19:17:51,274 - #42 (
+INFO  19:17:51,274 - #49 i
+INFO  19:17:51,274 - #22 ==
+INFO  19:17:51,274 - #48 3
+INFO  19:17:51,274 - #43 )
+INFO  19:17:51,274 - #46 {
+INFO  19:17:51,274 - #49 i
+INFO  19:17:51,274 - #36 ++
+INFO  19:17:51,274 - #38 ;
+INFO  19:17:51,274 - #21 continue
+INFO  19:17:51,274 - #38 ;
+INFO  19:17:51,274 - #47 }
+INFO  19:17:51,275 - #16 if
+INFO  19:17:51,275 - #42 (
+INFO  19:17:51,275 - #49 i
+INFO  19:17:51,275 - #22 ==
+INFO  19:17:51,275 - #48 4
+INFO  19:17:51,275 - #43 )
+INFO  19:17:51,275 - #15 break
+INFO  19:17:51,275 - #38 ;
+INFO  19:17:51,275 - #49 i
+INFO  19:17:51,276 - #35 =
+INFO  19:17:51,276 - #49 inkrement
+INFO  19:17:51,276 - #42 (
+INFO  19:17:51,276 - #49 i
+INFO  19:17:51,276 - #43 )
+INFO  19:17:51,276 - #38 ;
+INFO  19:17:51,276 - #47 }
+INFO  19:17:51,276 - #19 while
+INFO  19:17:51,276 - #42 (
+INFO  19:17:51,276 - #49 i
+INFO  19:17:51,276 - #26 <
+INFO  19:17:51,276 - #48 10
+INFO  19:17:51,276 - #43 )
+INFO  19:17:51,276 - #38 ;
+INFO  19:17:51,276 - #16 if
+INFO  19:17:51,276 - #42 (
+INFO  19:17:51,276 - #49 i
+INFO  19:17:51,276 - #22 ==
+INFO  19:17:51,276 - #48 3
+INFO  19:17:51,276 - #28 &&
+INFO  19:17:51,276 - #49 verify
+INFO  19:17:51,276 - #42 (
+INFO  19:17:51,276 - #43 )
+INFO  19:17:51,276 - #43 )
+INFO  19:17:51,276 - #8 print
+INFO  19:17:51,276 - #42 (
+INFO  19:17:51,276 - #31 -
+INFO  19:17:51,276 - #48 4
+INFO  19:17:51,276 - #43 )
+INFO  19:17:51,276 - #38 ;
+INFO  19:17:51,277 - #17 else
+INFO  19:17:51,277 - #8 print
+INFO  19:17:51,277 - #42 (
+INFO  19:17:51,277 - #48 4
+INFO  19:17:51,277 - #43 )
+INFO  19:17:51,277 - #38 ;
+INFO  19:17:51,277 - #9 read
+INFO  19:17:51,277 - #42 (
+INFO  19:17:51,277 - #49 niz
+INFO  19:17:51,277 - #44 [
+INFO  19:17:51,277 - #48 0
+INFO  19:17:51,277 - #45 ]
+INFO  19:17:51,277 - #43 )
+INFO  19:17:51,277 - #38 ;
+INFO  19:17:51,277 - #9 read
+INFO  19:17:51,277 - #42 (
+INFO  19:17:51,277 - #49 niz
+INFO  19:17:51,277 - #44 [
+INFO  19:17:51,277 - #48 1
+INFO  19:17:51,277 - #45 ]
+INFO  19:17:51,277 - #43 )
+INFO  19:17:51,277 - #38 ;
+INFO  19:17:51,277 - #9 read
+INFO  19:17:51,277 - #42 (
+INFO  19:17:51,277 - #49 niz
+INFO  19:17:51,277 - #44 [
+INFO  19:17:51,277 - #48 2
+INFO  19:17:51,277 - #45 ]
+INFO  19:17:51,277 - #43 )
+INFO  19:17:51,277 - #38 ;
+INFO  19:17:51,277 - #8 print
+INFO  19:17:51,277 - #42 (
+INFO  19:17:51,277 - #49 eol
+INFO  19:17:51,277 - #43 )
+INFO  19:17:51,277 - #38 ;
+INFO  19:17:51,277 - #8 print
+INFO  19:17:51,277 - #42 (
+INFO  19:17:51,277 - #49 sum
+INFO  19:17:51,277 - #42 (
+INFO  19:17:51,278 - #49 sum
+INFO  19:17:51,278 - #42 (
+INFO  19:17:51,278 - #49 niz
+INFO  19:17:51,278 - #44 [
+INFO  19:17:51,278 - #48 0
+INFO  19:17:51,278 - #45 ]
+INFO  19:17:51,278 - #40 ,
+INFO  19:17:51,278 - #49 niz
+INFO  19:17:51,278 - #44 [
+INFO  19:17:51,278 - #48 1
+INFO  19:17:51,278 - #45 ]
+INFO  19:17:51,278 - #43 )
+INFO  19:17:51,278 - #40 ,
+INFO  19:17:51,278 - #49 niz
+INFO  19:17:51,278 - #44 [
+INFO  19:17:51,278 - #48 2
+INFO  19:17:51,278 - #45 ]
+INFO  19:17:51,278 - #43 )
+INFO  19:17:51,278 - #43 )
+INFO  19:17:51,278 - #38 ;
+INFO  19:17:51,278 - #8 print
+INFO  19:17:51,278 - #42 (
+INFO  19:17:51,278 - #49 eol
+INFO  19:17:51,278 - #43 )
+INFO  19:17:51,278 - #38 ;
+INFO  19:17:51,278 - #8 print
+INFO  19:17:51,278 - #42 (
+INFO  19:17:51,278 - #49 inkrement
+INFO  19:17:51,278 - #42 (
+INFO  19:17:51,278 - #49 niz
+INFO  19:17:51,278 - #44 [
+INFO  19:17:51,278 - #48 2
+INFO  19:17:51,278 - #45 ]
+INFO  19:17:51,278 - #40 ,
+INFO  19:17:51,278 - #48 2
+INFO  19:17:51,278 - #43 )
+INFO  19:17:51,279 - #43 )
+INFO  19:17:51,279 - #38 ;
+INFO  19:17:51,279 - #49 a
+INFO  19:17:51,279 - #35 =
+INFO  19:17:51,279 - #48 3
+INFO  19:17:51,279 - #38 ;
+INFO  19:17:51,279 - #49 i
+INFO  19:17:51,279 - #35 =
+INFO  19:17:51,279 - #48 0
+INFO  19:17:51,279 - #38 ;
+INFO  19:17:51,279 - #18 do
+INFO  19:17:51,279 - #46 {
+INFO  19:17:51,279 - #49 niz
+INFO  19:17:51,279 - #44 [
+INFO  19:17:51,279 - #49 i
+INFO  19:17:51,279 - #45 ]
+INFO  19:17:51,279 - #35 =
+INFO  19:17:51,279 - #49 niz
+INFO  19:17:51,279 - #44 [
+INFO  19:17:51,279 - #49 i
+INFO  19:17:51,279 - #45 ]
+INFO  19:17:51,279 - #32 *
+INFO  19:17:51,279 - #48 2
+INFO  19:17:51,279 - #32 *
+INFO  19:17:51,279 - #49 a
+INFO  19:17:51,279 - #38 ;
+INFO  19:17:51,279 - #49 i
+INFO  19:17:51,279 - #36 ++
+INFO  19:17:51,279 - #38 ;
+INFO  19:17:51,279 - #47 }
+INFO  19:17:51,279 - #19 while
+INFO  19:17:51,279 - #42 (
+INFO  19:17:51,279 - #49 i
+INFO  19:17:51,279 - #26 <
+INFO  19:17:51,279 - #48 3
+INFO  19:17:51,279 - #43 )
+INFO  19:17:51,279 - #38 ;
+INFO  19:17:51,279 - #8 print
+INFO  19:17:51,279 - #42 (
+INFO  19:17:51,279 - #49 niz
+INFO  19:17:51,279 - #44 [
+INFO  19:17:51,279 - #48 0
+INFO  19:17:51,279 - #45 ]
+INFO  19:17:51,279 - #43 )
+INFO  19:17:51,280 - #38 ;
+INFO  19:17:51,280 - #8 print
+INFO  19:17:51,280 - #42 (
+INFO  19:17:51,280 - #49 niz
+INFO  19:17:51,280 - #44 [
+INFO  19:17:51,280 - #48 1
+INFO  19:17:51,280 - #45 ]
+INFO  19:17:51,280 - #43 )
+INFO  19:17:51,280 - #38 ;
+INFO  19:17:51,280 - #8 print
+INFO  19:17:51,280 - #42 (
+INFO  19:17:51,280 - #49 niz
+INFO  19:17:51,280 - #44 [
+INFO  19:17:51,280 - #48 2
+INFO  19:17:51,280 - #45 ]
+INFO  19:17:51,280 - #43 )
+INFO  19:17:51,280 - #38 ;
+INFO  19:17:51,280 - #8 print
+INFO  19:17:51,280 - #42 (
+INFO  19:17:51,280 - #49 eol
+INFO  19:17:51,280 - #43 )
+INFO  19:17:51,280 - #38 ;
+INFO  19:17:51,280 - #49 i
+INFO  19:17:51,280 - #35 =
+INFO  19:17:51,280 - #48 0
+INFO  19:17:51,280 - #38 ;
+INFO  19:17:51,280 - #49 niz2
+INFO  19:17:51,280 - #35 =
+INFO  19:17:51,280 - #48 0
+INFO  19:17:51,280 - #38 ;
+INFO  19:17:51,280 - #18 do
+INFO  19:17:51,280 - #46 {
+INFO  19:17:51,280 - #49 niz2
+INFO  19:17:51,280 - #35 =
+INFO  19:17:51,280 - #49 niz2
+INFO  19:17:51,280 - #30 +
+INFO  19:17:51,280 - #49 niz
+INFO  19:17:51,280 - #44 [
+INFO  19:17:51,280 - #49 i
+INFO  19:17:51,280 - #45 ]
+INFO  19:17:51,280 - #32 *
+INFO  19:17:51,280 - #49 niz
+INFO  19:17:51,280 - #44 [
+INFO  19:17:51,280 - #49 i
+INFO  19:17:51,280 - #45 ]
+INFO  19:17:51,280 - #38 ;
+INFO  19:17:51,280 - #49 i
+INFO  19:17:51,280 - #36 ++
+INFO  19:17:51,281 - #38 ;
+INFO  19:17:51,281 - #47 }
+INFO  19:17:51,281 - #19 while
+INFO  19:17:51,281 - #42 (
+INFO  19:17:51,281 - #49 i
+INFO  19:17:51,281 - #26 <
+INFO  19:17:51,281 - #48 3
+INFO  19:17:51,281 - #43 )
+INFO  19:17:51,281 - #38 ;
+INFO  19:17:51,281 - #8 print
+INFO  19:17:51,281 - #42 (
+INFO  19:17:51,281 - #49 niz2
+INFO  19:17:51,281 - #43 )
+INFO  19:17:51,281 - #38 ;
+INFO  19:17:51,281 - #47 }
+INFO  19:17:51,281 - #47 }
+INFO  19:17:51,282 - Parsiranje uspesno zavrseno.
+INFO  19:17:51,295 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  MultipleDecl(
+    MultipleDecl(
+      MultipleDecl(
+        MultipleDecl(
+          MultipleDecl(
+            MultipleDecl(
+              EmptyDeclList(
+              ) [EmptyDeclList]
+              ConstDeclD(
+                ConstD(
+                  ConstTypeName(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [ConstTypeName]
+                  SingleConst(
+                    NumberConst(
+                     jedan
+                     1
+                    ) [NumberConst]
+                  ) [SingleConst]
+                ) [ConstD]
+              ) [ConstDeclD]
+            ) [MultipleDecl]
+            VarDeclD(
+              VarD(
+                Type(
+                 int
+                ) [Type]
+                SingleVar(
+                  NonArrayVar(
+                   i
+                  ) [NonArrayVar]
+                ) [SingleVar]
+              ) [VarD]
+            ) [VarDeclD]
+          ) [MultipleDecl]
+          VarDeclD(
+            VarD(
+              Type(
+               bool
+              ) [Type]
+              SingleVar(
+                NonArrayVar(
+                 ibool
+                ) [NonArrayVar]
+              ) [SingleVar]
+            ) [VarD]
+          ) [VarDeclD]
+        ) [MultipleDecl]
+        VarDeclD(
+          VarD(
+            Type(
+             int
+            ) [Type]
+            SingleVar(
+              NonArrayVar(
+               niz2
+              ) [NonArrayVar]
+            ) [SingleVar]
+          ) [VarD]
+        ) [VarDeclD]
+      ) [MultipleDecl]
+      VarDeclD(
+        VarD(
+          Type(
+           int
+          ) [Type]
+          SingleVar(
+            ArrayVar(
+             niz
+            ) [ArrayVar]
+          ) [SingleVar]
+        ) [VarD]
+      ) [VarDeclD]
+    ) [MultipleDecl]
+    VarDeclD(
+      VarD(
+        Type(
+         int
+        ) [Type]
+        SingleVar(
+          NonArrayVar(
+           a
+          ) [NonArrayVar]
+        ) [SingleVar]
+      ) [VarD]
+    ) [VarDeclD]
+  ) [MultipleDecl]
+  MethodDList(
+    MethodDList(
+      MethodDList(
+        SingleMethodDeclList(
+          MethodDecl(
+            MethodType(
+              Type(
+               int
+              ) [Type]
+             sum
+            ) [MethodType]
+            MethodParamsOnlyOpt(
+              OptArgsListMultiple(
+                SingleOptArgsList(
+                  OptArgs(
+                    Type(
+                     int
+                    ) [Type]
+                    NumberOptArg(
+                     z
+                     1
+                    ) [NumberOptArg]
+                  ) [OptArgs]
+                ) [SingleOptArgsList]
+                OptArgs(
+                  Type(
+                   int
+                  ) [Type]
+                  NumberOptArg(
+                   d
+                   2
+                  ) [NumberOptArg]
+                ) [OptArgs]
+              ) [OptArgsListMultiple]
+            ) [MethodParamsOnlyOpt]
+            MethodSigEnd(
+            ) [MethodSigEnd]
+            EmptyVarDeclListNoError(
+            ) [EmptyVarDeclListNoError]
+            StatementListHasStatements(
+              EmptyStatementList(
+              ) [EmptyStatementList]
+              StatementSingle(
+                ReturnExprStatement(
+                  ExprMultiple(
+                    SingleExpr(
+                      SingleTerm(
+                        DesignatorFactor(
+                          SingleDesignator(
+                           z
+                          ) [SingleDesignator]
+                        ) [DesignatorFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                    AddOpPlus(
+                    ) [AddOpPlus]
+                    SingleTerm(
+                      DesignatorFactor(
+                        SingleDesignator(
+                         d
+                        ) [SingleDesignator]
+                      ) [DesignatorFactor]
+                    ) [SingleTerm]
+                  ) [ExprMultiple]
+                ) [ReturnExprStatement]
+              ) [StatementSingle]
+            ) [StatementListHasStatements]
+          ) [MethodDecl]
+        ) [SingleMethodDeclList]
+        MethodDecl(
+          MethodType(
+            Type(
+             int
+            ) [Type]
+           inkrement
+          ) [MethodType]
+          MethodParamsWithBoth(
+            SingleFormParsList(
+              FormParsNonArray(
+                Type(
+                 int
+                ) [Type]
+               a
+              ) [FormParsNonArray]
+            ) [SingleFormParsList]
+            SingleOptArgsList(
+              OptArgs(
+                Type(
+                 int
+                ) [Type]
+                NumberOptArg(
+                 inc
+                 1
+                ) [NumberOptArg]
+              ) [OptArgs]
+            ) [SingleOptArgsList]
+          ) [MethodParamsWithBoth]
+          MethodSigEnd(
+          ) [MethodSigEnd]
+          VarDeclListNoErrorHasItems(
+            EmptyVarDeclListNoError(
+            ) [EmptyVarDeclListNoError]
+            VarDNoError(
+              Type(
+               int
+              ) [Type]
+              SingleVarNoError(
+                NonArrayVarNoError(
+                 pom
+                ) [NonArrayVarNoError]
+              ) [SingleVarNoError]
+            ) [VarDNoError]
+          ) [VarDeclListNoErrorHasItems]
+          StatementListHasStatements(
+            StatementListHasStatements(
+              EmptyStatementList(
+              ) [EmptyStatementList]
+              StatementSingle(
+                IfElseStatement(
+                  IfCondition(
+                    SingleCondition(
+                      SingleCondTerm(
+                        CondFactRelop(
+                          SingleExpr(
+                            SingleTerm(
+                              DesignatorFactor(
+                                SingleDesignator(
+                                 inc
+                                ) [SingleDesignator]
+                              ) [DesignatorFactor]
+                            ) [SingleTerm]
+                          ) [SingleExpr]
+                          RelOpEqu(
+                          ) [RelOpEqu]
+                          SingleExpr(
+                            SingleTerm(
+                              DesignatorFactor(
+                                SingleDesignator(
+                                 jedan
+                                ) [SingleDesignator]
+                              ) [DesignatorFactor]
+                            ) [SingleTerm]
+                          ) [SingleExpr]
+                        ) [CondFactRelop]
+                      ) [SingleCondTerm]
+                    ) [SingleCondition]
+                  ) [IfCondition]
+                  StatementSingle(
+                    DStatement(
+                      DesignatorStatementAssign(
+                        DesignatorAssign(
+                          SingleDesignator(
+                           pom
+                          ) [SingleDesignator]
+                          Assign(
+                          ) [Assign]
+                          SingleExpr(
+                            SingleTerm(
+                              NumberFactor(
+                               1
+                              ) [NumberFactor]
+                            ) [SingleTerm]
+                          ) [SingleExpr]
+                        ) [DesignatorAssign]
+                      ) [DesignatorStatementAssign]
+                    ) [DStatement]
+                  ) [StatementSingle]
+                  StatementSingle(
+                    IfStatement(
+                      IfCondition(
+                        SingleCondition(
+                          SingleCondTerm(
+                            CondFactRelop(
+                              SingleExpr(
+                                SingleTerm(
+                                  DesignatorFactor(
+                                    SingleDesignator(
+                                     inc
+                                    ) [SingleDesignator]
+                                  ) [DesignatorFactor]
+                                ) [SingleTerm]
+                              ) [SingleExpr]
+                              RelOpEqu(
+                              ) [RelOpEqu]
+                              SingleExpr(
+                                SingleTerm(
+                                  NumberFactor(
+                                   2
+                                  ) [NumberFactor]
+                                ) [SingleTerm]
+                              ) [SingleExpr]
+                            ) [CondFactRelop]
+                          ) [SingleCondTerm]
+                        ) [SingleCondition]
+                      ) [IfCondition]
+                      StatementSingle(
+                        DStatement(
+                          DesignatorStatementAssign(
+                            DesignatorAssign(
+                              SingleDesignator(
+                               pom
+                              ) [SingleDesignator]
+                              Assign(
+                              ) [Assign]
+                              SingleExpr(
+                                SingleTerm(
+                                  DesignatorFactor(
+                                    SingleDesignator(
+                                     a
+                                    ) [SingleDesignator]
+                                  ) [DesignatorFactor]
+                                ) [SingleTerm]
+                              ) [SingleExpr]
+                            ) [DesignatorAssign]
+                          ) [DesignatorStatementAssign]
+                        ) [DStatement]
+                      ) [StatementSingle]
+                    ) [IfStatement]
+                  ) [StatementSingle]
+                ) [IfElseStatement]
+              ) [StatementSingle]
+            ) [StatementListHasStatements]
+            StatementSingle(
+              ReturnExprStatement(
+                SingleExpr(
+                  SingleTerm(
+                    DesignatorActParsFactor(
+                      MakeNewActParmsListDesignator(
+                        SingleDesignator(
+                         sum
+                        ) [SingleDesignator]
+                      ) [MakeNewActParmsListDesignator]
+                      ActParsListExists(
+                        ActParsMultiple(
+                          ActParsSingle(
+                            SingleExpr(
+                              SingleTerm(
+                                DesignatorFactor(
+                                  SingleDesignator(
+                                   a
+                                  ) [SingleDesignator]
+                                ) [DesignatorFactor]
+                              ) [SingleTerm]
+                            ) [SingleExpr]
+                          ) [ActParsSingle]
+                          SingleExpr(
+                            SingleTerm(
+                              DesignatorFactor(
+                                SingleDesignator(
+                                 pom
+                                ) [SingleDesignator]
+                              ) [DesignatorFactor]
+                            ) [SingleTerm]
+                          ) [SingleExpr]
+                        ) [ActParsMultiple]
+                      ) [ActParsListExists]
+                    ) [DesignatorActParsFactor]
+                  ) [SingleTerm]
+                ) [SingleExpr]
+              ) [ReturnExprStatement]
+            ) [StatementSingle]
+          ) [StatementListHasStatements]
+        ) [MethodDecl]
+      ) [MethodDList]
+      MethodDecl(
+        MethodType(
+          Type(
+           bool
+          ) [Type]
+         verify
+        ) [MethodType]
+        EmptyMethodParams(
+        ) [EmptyMethodParams]
+        MethodSigEnd(
+        ) [MethodSigEnd]
+        EmptyVarDeclListNoError(
+        ) [EmptyVarDeclListNoError]
+        StatementListHasStatements(
+          StatementListHasStatements(
+            EmptyStatementList(
+            ) [EmptyStatementList]
+            StatementSingle(
+              PrintNoNumStatement(
+                SingleExpr(
+                  SingleTerm(
+                    CharFactor(
+                     v
+                    ) [CharFactor]
+                  ) [SingleTerm]
+                ) [SingleExpr]
+              ) [PrintNoNumStatement]
+            ) [StatementSingle]
+          ) [StatementListHasStatements]
+          StatementSingle(
+            ReturnExprStatement(
+              SingleExpr(
+                SingleTerm(
+                  BoolFactor(
+                   false
+                  ) [BoolFactor]
+                ) [SingleTerm]
+              ) [SingleExpr]
+            ) [ReturnExprStatement]
+          ) [StatementSingle]
+        ) [StatementListHasStatements]
+      ) [MethodDecl]
+    ) [MethodDList]
+    MethodDecl(
+      MethodVoid(
+       main
+      ) [MethodVoid]
+      EmptyMethodParams(
+      ) [EmptyMethodParams]
+      MethodSigEnd(
+      ) [MethodSigEnd]
+      EmptyVarDeclListNoError(
+      ) [EmptyVarDeclListNoError]
+      StatementListHasStatements(
+        StatementListHasStatements(
+          StatementListHasStatements(
+            StatementListHasStatements(
+              StatementListHasStatements(
+                StatementListHasStatements(
+                  StatementListHasStatements(
+                    StatementListHasStatements(
+                      StatementListHasStatements(
+                        StatementListHasStatements(
+                          StatementListHasStatements(
+                            StatementListHasStatements(
+                              StatementListHasStatements(
+                                StatementListHasStatements(
+                                  StatementListHasStatements(
+                                    StatementListHasStatements(
+                                      StatementListHasStatements(
+                                        StatementListHasStatements(
+                                          StatementListHasStatements(
+                                            StatementListHasStatements(
+                                              StatementListHasStatements(
+                                                StatementListHasStatements(
+                                                  StatementListHasStatements(
+                                                    StatementListHasStatements(
+                                                      StatementListHasStatements(
+                                                        StatementListHasStatements(
+                                                          StatementListHasStatements(
+                                                            StatementListHasStatements(
+                                                              StatementListHasStatements(
+                                                                StatementListHasStatements(
+                                                                  StatementListHasStatements(
+                                                                    StatementListHasStatements(
+                                                                      StatementListHasStatements(
+                                                                        StatementListHasStatements(
+                                                                          StatementListHasStatements(
+                                                                            EmptyStatementList(
+                                                                            ) [EmptyStatementList]
+                                                                            StatementSingle(
+                                                                              PrintNoNumStatement(
+                                                                                SingleExpr(
+                                                                                  SingleTerm(
+                                                                                    DesignatorActParsFactor(
+                                                                                      MakeNewActParmsListDesignator(
+                                                                                        SingleDesignator(
+                                                                                         sum
+                                                                                        ) [SingleDesignator]
+                                                                                      ) [MakeNewActParmsListDesignator]
+                                                                                      EmptyActParsList(
+                                                                                      ) [EmptyActParsList]
+                                                                                    ) [DesignatorActParsFactor]
+                                                                                  ) [SingleTerm]
+                                                                                ) [SingleExpr]
+                                                                              ) [PrintNoNumStatement]
+                                                                            ) [StatementSingle]
+                                                                          ) [StatementListHasStatements]
+                                                                          StatementSingle(
+                                                                            PrintNoNumStatement(
+                                                                              SingleExpr(
+                                                                                SingleTerm(
+                                                                                  DesignatorActParsFactor(
+                                                                                    MakeNewActParmsListDesignator(
+                                                                                      SingleDesignator(
+                                                                                       sum
+                                                                                      ) [SingleDesignator]
+                                                                                    ) [MakeNewActParmsListDesignator]
+                                                                                    ActParsListExists(
+                                                                                      ActParsSingle(
+                                                                                        SingleExpr(
+                                                                                          SingleTerm(
+                                                                                            NumberFactor(
+                                                                                             2
+                                                                                            ) [NumberFactor]
+                                                                                          ) [SingleTerm]
+                                                                                        ) [SingleExpr]
+                                                                                      ) [ActParsSingle]
+                                                                                    ) [ActParsListExists]
+                                                                                  ) [DesignatorActParsFactor]
+                                                                                ) [SingleTerm]
+                                                                              ) [SingleExpr]
+                                                                            ) [PrintNoNumStatement]
+                                                                          ) [StatementSingle]
+                                                                        ) [StatementListHasStatements]
+                                                                        StatementSingle(
+                                                                          IfElseStatement(
+                                                                            IfCondition(
+                                                                              SingleCondition(
+                                                                                SingleCondTerm(
+                                                                                  CondFactRelop(
+                                                                                    SingleExpr(
+                                                                                      SingleTerm(
+                                                                                        NumberFactor(
+                                                                                         1
+                                                                                        ) [NumberFactor]
+                                                                                      ) [SingleTerm]
+                                                                                    ) [SingleExpr]
+                                                                                    RelOpNeq(
+                                                                                    ) [RelOpNeq]
+                                                                                    SingleExpr(
+                                                                                      SingleTerm(
+                                                                                        NumberFactor(
+                                                                                         1
+                                                                                        ) [NumberFactor]
+                                                                                      ) [SingleTerm]
+                                                                                    ) [SingleExpr]
+                                                                                  ) [CondFactRelop]
+                                                                                ) [SingleCondTerm]
+                                                                              ) [SingleCondition]
+                                                                            ) [IfCondition]
+                                                                            StatementSingle(
+                                                                              PrintNoNumStatement(
+                                                                                SingleNegExpr(
+                                                                                  SingleTerm(
+                                                                                    NumberFactor(
+                                                                                     6
+                                                                                    ) [NumberFactor]
+                                                                                  ) [SingleTerm]
+                                                                                ) [SingleNegExpr]
+                                                                              ) [PrintNoNumStatement]
+                                                                            ) [StatementSingle]
+                                                                            StatementSingle(
+                                                                              PrintNoNumStatement(
+                                                                                SingleExpr(
+                                                                                  SingleTerm(
+                                                                                    NumberFactor(
+                                                                                     0
+                                                                                    ) [NumberFactor]
+                                                                                  ) [SingleTerm]
+                                                                                ) [SingleExpr]
+                                                                              ) [PrintNoNumStatement]
+                                                                            ) [StatementSingle]
+                                                                          ) [IfElseStatement]
+                                                                        ) [StatementSingle]
+                                                                      ) [StatementListHasStatements]
+                                                                      StatementSingle(
+                                                                        DStatement(
+                                                                          DesignatorStatementAssign(
+                                                                            DesignatorAssign(
+                                                                              SingleDesignator(
+                                                                               ibool
+                                                                              ) [SingleDesignator]
+                                                                              Assign(
+                                                                              ) [Assign]
+                                                                              SingleExpr(
+                                                                                SingleTerm(
+                                                                                  BoolFactor(
+                                                                                   false
+                                                                                  ) [BoolFactor]
+                                                                                ) [SingleTerm]
+                                                                              ) [SingleExpr]
+                                                                            ) [DesignatorAssign]
+                                                                          ) [DesignatorStatementAssign]
+                                                                        ) [DStatement]
+                                                                      ) [StatementSingle]
+                                                                    ) [StatementListHasStatements]
+                                                                    StatementSingle(
+                                                                      DStatement(
+                                                                        DesignatorStatementAssign(
+                                                                          DesignatorAssign(
+                                                                            SingleDesignator(
+                                                                             i
+                                                                            ) [SingleDesignator]
+                                                                            Assign(
+                                                                            ) [Assign]
+                                                                            SingleExpr(
+                                                                              SingleTerm(
+                                                                                NumberFactor(
+                                                                                 0
+                                                                                ) [NumberFactor]
+                                                                              ) [SingleTerm]
+                                                                            ) [SingleExpr]
+                                                                          ) [DesignatorAssign]
+                                                                        ) [DesignatorStatementAssign]
+                                                                      ) [DStatement]
+                                                                    ) [StatementSingle]
+                                                                  ) [StatementListHasStatements]
+                                                                  StatementSingle(
+                                                                    DoWhileStatement(
+                                                                      DoForCheck(
+                                                                      ) [DoForCheck]
+                                                                      StatementsMultiple(
+                                                                        Block(
+                                                                          StatementListHasStatements(
+                                                                            StatementListHasStatements(
+                                                                              EmptyStatementList(
+                                                                              ) [EmptyStatementList]
+                                                                              StatementSingle(
+                                                                                IfStatement(
+                                                                                  IfCondition(
+                                                                                    SingleCondition(
+                                                                                      SingleCondTerm(
+                                                                                        CondFactRelop(
+                                                                                          SingleExpr(
+                                                                                            SingleTerm(
+                                                                                              DesignatorFactor(
+                                                                                                SingleDesignator(
+                                                                                                 i
+                                                                                                ) [SingleDesignator]
+                                                                                              ) [DesignatorFactor]
+                                                                                            ) [SingleTerm]
+                                                                                          ) [SingleExpr]
+                                                                                          RelOpEqu(
+                                                                                          ) [RelOpEqu]
+                                                                                          SingleExpr(
+                                                                                            SingleTerm(
+                                                                                              NumberFactor(
+                                                                                               2
+                                                                                              ) [NumberFactor]
+                                                                                            ) [SingleTerm]
+                                                                                          ) [SingleExpr]
+                                                                                        ) [CondFactRelop]
+                                                                                      ) [SingleCondTerm]
+                                                                                    ) [SingleCondition]
+                                                                                  ) [IfCondition]
+                                                                                  StatementSingle(
+                                                                                    DStatement(
+                                                                                      DesignatorStatementAssign(
+                                                                                        DesignatorAssign(
+                                                                                          SingleDesignator(
+                                                                                           ibool
+                                                                                          ) [SingleDesignator]
+                                                                                          Assign(
+                                                                                          ) [Assign]
+                                                                                          SingleExpr(
+                                                                                            SingleTerm(
+                                                                                              BoolFactor(
+                                                                                               true
+                                                                                              ) [BoolFactor]
+                                                                                            ) [SingleTerm]
+                                                                                          ) [SingleExpr]
+                                                                                        ) [DesignatorAssign]
+                                                                                      ) [DesignatorStatementAssign]
+                                                                                    ) [DStatement]
+                                                                                  ) [StatementSingle]
+                                                                                ) [IfStatement]
+                                                                              ) [StatementSingle]
+                                                                            ) [StatementListHasStatements]
+                                                                            StatementSingle(
+                                                                              DStatement(
+                                                                                DesignatorStatementInc(
+                                                                                  SingleDesignator(
+                                                                                   i
+                                                                                  ) [SingleDesignator]
+                                                                                ) [DesignatorStatementInc]
+                                                                              ) [DStatement]
+                                                                            ) [StatementSingle]
+                                                                          ) [StatementListHasStatements]
+                                                                        ) [Block]
+                                                                      ) [StatementsMultiple]
+                                                                      SingleCondition(
+                                                                        SingleCondTerm(
+                                                                          CondFactRelop(
+                                                                            SingleExpr(
+                                                                              SingleTerm(
+                                                                                DesignatorFactor(
+                                                                                  SingleDesignator(
+                                                                                   i
+                                                                                  ) [SingleDesignator]
+                                                                                ) [DesignatorFactor]
+                                                                              ) [SingleTerm]
+                                                                            ) [SingleExpr]
+                                                                            RelOpLss(
+                                                                            ) [RelOpLss]
+                                                                            SingleExpr(
+                                                                              SingleTerm(
+                                                                                NumberFactor(
+                                                                                 5
+                                                                                ) [NumberFactor]
+                                                                              ) [SingleTerm]
+                                                                            ) [SingleExpr]
+                                                                          ) [CondFactRelop]
+                                                                        ) [SingleCondTerm]
+                                                                      ) [SingleCondition]
+                                                                    ) [DoWhileStatement]
+                                                                  ) [StatementSingle]
+                                                                ) [StatementListHasStatements]
+                                                                StatementSingle(
+                                                                  IfStatement(
+                                                                    IfCondition(
+                                                                      SingleCondition(
+                                                                        SingleCondTerm(
+                                                                          CondFactNoRelop(
+                                                                            SingleExpr(
+                                                                              SingleTerm(
+                                                                                DesignatorFactor(
+                                                                                  SingleDesignator(
+                                                                                   ibool
+                                                                                  ) [SingleDesignator]
+                                                                                ) [DesignatorFactor]
+                                                                              ) [SingleTerm]
+                                                                            ) [SingleExpr]
+                                                                          ) [CondFactNoRelop]
+                                                                        ) [SingleCondTerm]
+                                                                      ) [SingleCondition]
+                                                                    ) [IfCondition]
+                                                                    StatementSingle(
+                                                                      IfElseStatement(
+                                                                        IfCondition(
+                                                                          SingleCondition(
+                                                                            SingleCondTerm(
+                                                                              CondFactRelop(
+                                                                                SingleExpr(
+                                                                                  SingleTerm(
+                                                                                    DesignatorFactor(
+                                                                                      SingleDesignator(
+                                                                                       i
+                                                                                      ) [SingleDesignator]
+                                                                                    ) [DesignatorFactor]
+                                                                                  ) [SingleTerm]
+                                                                                ) [SingleExpr]
+                                                                                RelOpEqu(
+                                                                                ) [RelOpEqu]
+                                                                                SingleExpr(
+                                                                                  SingleTerm(
+                                                                                    NumberFactor(
+                                                                                     5
+                                                                                    ) [NumberFactor]
+                                                                                  ) [SingleTerm]
+                                                                                ) [SingleExpr]
+                                                                              ) [CondFactRelop]
+                                                                            ) [SingleCondTerm]
+                                                                          ) [SingleCondition]
+                                                                        ) [IfCondition]
+                                                                        StatementSingle(
+                                                                          PrintNoNumStatement(
+                                                                            SingleExpr(
+                                                                              SingleTerm(
+                                                                                NumberFactor(
+                                                                                 1
+                                                                                ) [NumberFactor]
+                                                                              ) [SingleTerm]
+                                                                            ) [SingleExpr]
+                                                                          ) [PrintNoNumStatement]
+                                                                        ) [StatementSingle]
+                                                                        StatementSingle(
+                                                                          PrintNoNumStatement(
+                                                                            SingleNegExpr(
+                                                                              SingleTerm(
+                                                                                NumberFactor(
+                                                                                 1
+                                                                                ) [NumberFactor]
+                                                                              ) [SingleTerm]
+                                                                            ) [SingleNegExpr]
+                                                                          ) [PrintNoNumStatement]
+                                                                        ) [StatementSingle]
+                                                                      ) [IfElseStatement]
+                                                                    ) [StatementSingle]
+                                                                  ) [IfStatement]
+                                                                ) [StatementSingle]
+                                                              ) [StatementListHasStatements]
+                                                              StatementSingle(
+                                                                DStatement(
+                                                                  DesignatorStatementAssign(
+                                                                    DesignatorAssign(
+                                                                      SingleDesignator(
+                                                                       a
+                                                                      ) [SingleDesignator]
+                                                                      Assign(
+                                                                      ) [Assign]
+                                                                      SingleExpr(
+                                                                        SingleTerm(
+                                                                          NumberFactor(
+                                                                           2
+                                                                          ) [NumberFactor]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpr]
+                                                                    ) [DesignatorAssign]
+                                                                  ) [DesignatorStatementAssign]
+                                                                ) [DStatement]
+                                                              ) [StatementSingle]
+                                                            ) [StatementListHasStatements]
+                                                            StatementSingle(
+                                                              DStatement(
+                                                                DesignatorStatementAssign(
+                                                                  DesignatorAssign(
+                                                                    SingleDesignator(
+                                                                     niz
+                                                                    ) [SingleDesignator]
+                                                                    Assign(
+                                                                    ) [Assign]
+                                                                    SingleExpr(
+                                                                      SingleTerm(
+                                                                        TypeExprFactor(
+                                                                          Type(
+                                                                           int
+                                                                          ) [Type]
+                                                                          SingleExpr(
+                                                                            SingleTerm(
+                                                                              NumberFactor(
+                                                                               3
+                                                                              ) [NumberFactor]
+                                                                            ) [SingleTerm]
+                                                                          ) [SingleExpr]
+                                                                        ) [TypeExprFactor]
+                                                                      ) [SingleTerm]
+                                                                    ) [SingleExpr]
+                                                                  ) [DesignatorAssign]
+                                                                ) [DesignatorStatementAssign]
+                                                              ) [DStatement]
+                                                            ) [StatementSingle]
+                                                          ) [StatementListHasStatements]
+                                                          StatementSingle(
+                                                            DStatement(
+                                                              DesignatorStatementAssign(
+                                                                DesignatorAssign(
+                                                                  DesignatorArray(
+                                                                    SingleDesignator(
+                                                                     niz
+                                                                    ) [SingleDesignator]
+                                                                    SingleExpr(
+                                                                      SingleTerm(
+                                                                        NumberFactor(
+                                                                         0
+                                                                        ) [NumberFactor]
+                                                                      ) [SingleTerm]
+                                                                    ) [SingleExpr]
+                                                                  ) [DesignatorArray]
+                                                                  Assign(
+                                                                  ) [Assign]
+                                                                  SingleExpr(
+                                                                    TermMultiple(
+                                                                      SingleTerm(
+                                                                        NumberFactor(
+                                                                         1
+                                                                        ) [NumberFactor]
+                                                                      ) [SingleTerm]
+                                                                      MulOpStar(
+                                                                      ) [MulOpStar]
+                                                                      DesignatorFactor(
+                                                                        SingleDesignator(
+                                                                         a
+                                                                        ) [SingleDesignator]
+                                                                      ) [DesignatorFactor]
+                                                                    ) [TermMultiple]
+                                                                  ) [SingleExpr]
+                                                                ) [DesignatorAssign]
+                                                              ) [DesignatorStatementAssign]
+                                                            ) [DStatement]
+                                                          ) [StatementSingle]
+                                                        ) [StatementListHasStatements]
+                                                        StatementSingle(
+                                                          DStatement(
+                                                            DesignatorStatementAssign(
+                                                              DesignatorAssign(
+                                                                DesignatorArray(
+                                                                  SingleDesignator(
+                                                                   niz
+                                                                  ) [SingleDesignator]
+                                                                  SingleExpr(
+                                                                    SingleTerm(
+                                                                      NumberFactor(
+                                                                       1
+                                                                      ) [NumberFactor]
+                                                                    ) [SingleTerm]
+                                                                  ) [SingleExpr]
+                                                                ) [DesignatorArray]
+                                                                Assign(
+                                                                ) [Assign]
+                                                                SingleExpr(
+                                                                  TermMultiple(
+                                                                    SingleTerm(
+                                                                      NumberFactor(
+                                                                       2
+                                                                      ) [NumberFactor]
+                                                                    ) [SingleTerm]
+                                                                    MulOpStar(
+                                                                    ) [MulOpStar]
+                                                                    DesignatorFactor(
+                                                                      SingleDesignator(
+                                                                       a
+                                                                      ) [SingleDesignator]
+                                                                    ) [DesignatorFactor]
+                                                                  ) [TermMultiple]
+                                                                ) [SingleExpr]
+                                                              ) [DesignatorAssign]
+                                                            ) [DesignatorStatementAssign]
+                                                          ) [DStatement]
+                                                        ) [StatementSingle]
+                                                      ) [StatementListHasStatements]
+                                                      StatementSingle(
+                                                        DStatement(
+                                                          DesignatorStatementAssign(
+                                                            DesignatorAssign(
+                                                              DesignatorArray(
+                                                                SingleDesignator(
+                                                                 niz
+                                                                ) [SingleDesignator]
+                                                                SingleExpr(
+                                                                  SingleTerm(
+                                                                    NumberFactor(
+                                                                     2
+                                                                    ) [NumberFactor]
+                                                                  ) [SingleTerm]
+                                                                ) [SingleExpr]
+                                                              ) [DesignatorArray]
+                                                              Assign(
+                                                              ) [Assign]
+                                                              ExprMultiple(
+                                                                SingleExpr(
+                                                                  TermMultiple(
+                                                                    SingleTerm(
+                                                                      DesignatorActParsFactor(
+                                                                        MakeNewActParmsListDesignator(
+                                                                          SingleDesignator(
+                                                                           sum
+                                                                          ) [SingleDesignator]
+                                                                        ) [MakeNewActParmsListDesignator]
+                                                                        ActParsListExists(
+                                                                          ActParsMultiple(
+                                                                            ActParsSingle(
+                                                                              SingleExpr(
+                                                                                SingleTerm(
+                                                                                  DesignatorFactor(
+                                                                                    DesignatorArray(
+                                                                                      SingleDesignator(
+                                                                                       niz
+                                                                                      ) [SingleDesignator]
+                                                                                      SingleExpr(
+                                                                                        SingleTerm(
+                                                                                          NumberFactor(
+                                                                                           1
+                                                                                          ) [NumberFactor]
+                                                                                        ) [SingleTerm]
+                                                                                      ) [SingleExpr]
+                                                                                    ) [DesignatorArray]
+                                                                                  ) [DesignatorFactor]
+                                                                                ) [SingleTerm]
+                                                                              ) [SingleExpr]
+                                                                            ) [ActParsSingle]
+                                                                            SingleExpr(
+                                                                              SingleTerm(
+                                                                                DesignatorFactor(
+                                                                                  DesignatorArray(
+                                                                                    SingleDesignator(
+                                                                                     niz
+                                                                                    ) [SingleDesignator]
+                                                                                    SingleExpr(
+                                                                                      SingleTerm(
+                                                                                        NumberFactor(
+                                                                                         0
+                                                                                        ) [NumberFactor]
+                                                                                      ) [SingleTerm]
+                                                                                    ) [SingleExpr]
+                                                                                  ) [DesignatorArray]
+                                                                                ) [DesignatorFactor]
+                                                                              ) [SingleTerm]
+                                                                            ) [SingleExpr]
+                                                                          ) [ActParsMultiple]
+                                                                        ) [ActParsListExists]
+                                                                      ) [DesignatorActParsFactor]
+                                                                    ) [SingleTerm]
+                                                                    MulOpStar(
+                                                                    ) [MulOpStar]
+                                                                    DesignatorFactor(
+                                                                      SingleDesignator(
+                                                                       a
+                                                                      ) [SingleDesignator]
+                                                                    ) [DesignatorFactor]
+                                                                  ) [TermMultiple]
+                                                                ) [SingleExpr]
+                                                                AddOpPlus(
+                                                                ) [AddOpPlus]
+                                                                SingleTerm(
+                                                                  NumberFactor(
+                                                                   1
+                                                                  ) [NumberFactor]
+                                                                ) [SingleTerm]
+                                                              ) [ExprMultiple]
+                                                            ) [DesignatorAssign]
+                                                          ) [DesignatorStatementAssign]
+                                                        ) [DStatement]
+                                                      ) [StatementSingle]
+                                                    ) [StatementListHasStatements]
+                                                    StatementSingle(
+                                                      IfElseStatement(
+                                                        IfCondition(
+                                                          ConditionMultiple(
+                                                            SingleCondition(
+                                                              SingleCondTerm(
+                                                                CondFactNoRelop(
+                                                                  SingleExpr(
+                                                                    SingleTerm(
+                                                                      DesignatorActParsFactor(
+                                                                        MakeNewActParmsListDesignator(
+                                                                          SingleDesignator(
+                                                                           verify
+                                                                          ) [SingleDesignator]
+                                                                        ) [MakeNewActParmsListDesignator]
+                                                                        EmptyActParsList(
+                                                                        ) [EmptyActParsList]
+                                                                      ) [DesignatorActParsFactor]
+                                                                    ) [SingleTerm]
+                                                                  ) [SingleExpr]
+                                                                ) [CondFactNoRelop]
+                                                              ) [SingleCondTerm]
+                                                            ) [SingleCondition]
+                                                            SingleCondTerm(
+                                                              CondFactRelop(
+                                                                SingleExpr(
+                                                                  SingleTerm(
+                                                                    DesignatorFactor(
+                                                                      DesignatorArray(
+                                                                        SingleDesignator(
+                                                                         niz
+                                                                        ) [SingleDesignator]
+                                                                        SingleExpr(
+                                                                          SingleTerm(
+                                                                            NumberFactor(
+                                                                             2
+                                                                            ) [NumberFactor]
+                                                                          ) [SingleTerm]
+                                                                        ) [SingleExpr]
+                                                                      ) [DesignatorArray]
+                                                                    ) [DesignatorFactor]
+                                                                  ) [SingleTerm]
+                                                                ) [SingleExpr]
+                                                                RelOpEqu(
+                                                                ) [RelOpEqu]
+                                                                SingleExpr(
+                                                                  SingleTerm(
+                                                                    NumberFactor(
+                                                                     4
+                                                                    ) [NumberFactor]
+                                                                  ) [SingleTerm]
+                                                                ) [SingleExpr]
+                                                              ) [CondFactRelop]
+                                                            ) [SingleCondTerm]
+                                                          ) [ConditionMultiple]
+                                                        ) [IfCondition]
+                                                        StatementSingle(
+                                                          PrintNoNumStatement(
+                                                            SingleExpr(
+                                                              SingleTerm(
+                                                                DesignatorActParsFactor(
+                                                                  MakeNewActParmsListDesignator(
+                                                                    SingleDesignator(
+                                                                     ord
+                                                                    ) [SingleDesignator]
+                                                                  ) [MakeNewActParmsListDesignator]
+                                                                  ActParsListExists(
+                                                                    ActParsSingle(
+                                                                      SingleExpr(
+                                                                        SingleTerm(
+                                                                          CharFactor(
+                                                                           A
+                                                                          ) [CharFactor]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpr]
+                                                                    ) [ActParsSingle]
+                                                                  ) [ActParsListExists]
+                                                                ) [DesignatorActParsFactor]
+                                                              ) [SingleTerm]
+                                                            ) [SingleExpr]
+                                                          ) [PrintNoNumStatement]
+                                                        ) [StatementSingle]
+                                                        StatementSingle(
+                                                          PrintNoNumStatement(
+                                                            SingleExpr(
+                                                              SingleTerm(
+                                                                DesignatorActParsFactor(
+                                                                  MakeNewActParmsListDesignator(
+                                                                    SingleDesignator(
+                                                                     ord
+                                                                    ) [SingleDesignator]
+                                                                  ) [MakeNewActParmsListDesignator]
+                                                                  ActParsListExists(
+                                                                    ActParsSingle(
+                                                                      SingleExpr(
+                                                                        SingleTerm(
+                                                                          CharFactor(
+                                                                           a
+                                                                          ) [CharFactor]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpr]
+                                                                    ) [ActParsSingle]
+                                                                  ) [ActParsListExists]
+                                                                ) [DesignatorActParsFactor]
+                                                              ) [SingleTerm]
+                                                            ) [SingleExpr]
+                                                          ) [PrintNoNumStatement]
+                                                        ) [StatementSingle]
+                                                      ) [IfElseStatement]
+                                                    ) [StatementSingle]
+                                                  ) [StatementListHasStatements]
+                                                  StatementSingle(
+                                                    PrintNoNumStatement(
+                                                      SingleExpr(
+                                                        SingleTerm(
+                                                          DesignatorFactor(
+                                                            SingleDesignator(
+                                                             eol
+                                                            ) [SingleDesignator]
+                                                          ) [DesignatorFactor]
+                                                        ) [SingleTerm]
+                                                      ) [SingleExpr]
+                                                    ) [PrintNoNumStatement]
+                                                  ) [StatementSingle]
+                                                ) [StatementListHasStatements]
+                                                StatementSingle(
+                                                  DStatement(
+                                                    DesignatorStatementAssign(
+                                                      DesignatorAssign(
+                                                        SingleDesignator(
+                                                         i
+                                                        ) [SingleDesignator]
+                                                        Assign(
+                                                        ) [Assign]
+                                                        SingleExpr(
+                                                          SingleTerm(
+                                                            NumberFactor(
+                                                             0
+                                                            ) [NumberFactor]
+                                                          ) [SingleTerm]
+                                                        ) [SingleExpr]
+                                                      ) [DesignatorAssign]
+                                                    ) [DesignatorStatementAssign]
+                                                  ) [DStatement]
+                                                ) [StatementSingle]
+                                              ) [StatementListHasStatements]
+                                              StatementSingle(
+                                                DoWhileStatement(
+                                                  DoForCheck(
+                                                  ) [DoForCheck]
+                                                  StatementsMultiple(
+                                                    Block(
+                                                      StatementListHasStatements(
+                                                        StatementListHasStatements(
+                                                          StatementListHasStatements(
+                                                            EmptyStatementList(
+                                                            ) [EmptyStatementList]
+                                                            StatementSingle(
+                                                              IfStatement(
+                                                                IfCondition(
+                                                                  SingleCondition(
+                                                                    SingleCondTerm(
+                                                                      CondFactRelop(
+                                                                        SingleExpr(
+                                                                          SingleTerm(
+                                                                            DesignatorFactor(
+                                                                              SingleDesignator(
+                                                                               i
+                                                                              ) [SingleDesignator]
+                                                                            ) [DesignatorFactor]
+                                                                          ) [SingleTerm]
+                                                                        ) [SingleExpr]
+                                                                        RelOpEqu(
+                                                                        ) [RelOpEqu]
+                                                                        SingleExpr(
+                                                                          SingleTerm(
+                                                                            NumberFactor(
+                                                                             3
+                                                                            ) [NumberFactor]
+                                                                          ) [SingleTerm]
+                                                                        ) [SingleExpr]
+                                                                      ) [CondFactRelop]
+                                                                    ) [SingleCondTerm]
+                                                                  ) [SingleCondition]
+                                                                ) [IfCondition]
+                                                                StatementsMultiple(
+                                                                  Block(
+                                                                    StatementListHasStatements(
+                                                                      StatementListHasStatements(
+                                                                        EmptyStatementList(
+                                                                        ) [EmptyStatementList]
+                                                                        StatementSingle(
+                                                                          DStatement(
+                                                                            DesignatorStatementInc(
+                                                                              SingleDesignator(
+                                                                               i
+                                                                              ) [SingleDesignator]
+                                                                            ) [DesignatorStatementInc]
+                                                                          ) [DStatement]
+                                                                        ) [StatementSingle]
+                                                                      ) [StatementListHasStatements]
+                                                                      StatementSingle(
+                                                                        ContinueStatement(
+                                                                        ) [ContinueStatement]
+                                                                      ) [StatementSingle]
+                                                                    ) [StatementListHasStatements]
+                                                                  ) [Block]
+                                                                ) [StatementsMultiple]
+                                                              ) [IfStatement]
+                                                            ) [StatementSingle]
+                                                          ) [StatementListHasStatements]
+                                                          StatementSingle(
+                                                            IfStatement(
+                                                              IfCondition(
+                                                                SingleCondition(
+                                                                  SingleCondTerm(
+                                                                    CondFactRelop(
+                                                                      SingleExpr(
+                                                                        SingleTerm(
+                                                                          DesignatorFactor(
+                                                                            SingleDesignator(
+                                                                             i
+                                                                            ) [SingleDesignator]
+                                                                          ) [DesignatorFactor]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpr]
+                                                                      RelOpEqu(
+                                                                      ) [RelOpEqu]
+                                                                      SingleExpr(
+                                                                        SingleTerm(
+                                                                          NumberFactor(
+                                                                           4
+                                                                          ) [NumberFactor]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpr]
+                                                                    ) [CondFactRelop]
+                                                                  ) [SingleCondTerm]
+                                                                ) [SingleCondition]
+                                                              ) [IfCondition]
+                                                              StatementSingle(
+                                                                BreakStatement(
+                                                                ) [BreakStatement]
+                                                              ) [StatementSingle]
+                                                            ) [IfStatement]
+                                                          ) [StatementSingle]
+                                                        ) [StatementListHasStatements]
+                                                        StatementSingle(
+                                                          DStatement(
+                                                            DesignatorStatementAssign(
+                                                              DesignatorAssign(
+                                                                SingleDesignator(
+                                                                 i
+                                                                ) [SingleDesignator]
+                                                                Assign(
+                                                                ) [Assign]
+                                                                SingleExpr(
+                                                                  SingleTerm(
+                                                                    DesignatorActParsFactor(
+                                                                      MakeNewActParmsListDesignator(
+                                                                        SingleDesignator(
+                                                                         inkrement
+                                                                        ) [SingleDesignator]
+                                                                      ) [MakeNewActParmsListDesignator]
+                                                                      ActParsListExists(
+                                                                        ActParsSingle(
+                                                                          SingleExpr(
+                                                                            SingleTerm(
+                                                                              DesignatorFactor(
+                                                                                SingleDesignator(
+                                                                                 i
+                                                                                ) [SingleDesignator]
+                                                                              ) [DesignatorFactor]
+                                                                            ) [SingleTerm]
+                                                                          ) [SingleExpr]
+                                                                        ) [ActParsSingle]
+                                                                      ) [ActParsListExists]
+                                                                    ) [DesignatorActParsFactor]
+                                                                  ) [SingleTerm]
+                                                                ) [SingleExpr]
+                                                              ) [DesignatorAssign]
+                                                            ) [DesignatorStatementAssign]
+                                                          ) [DStatement]
+                                                        ) [StatementSingle]
+                                                      ) [StatementListHasStatements]
+                                                    ) [Block]
+                                                  ) [StatementsMultiple]
+                                                  SingleCondition(
+                                                    SingleCondTerm(
+                                                      CondFactRelop(
+                                                        SingleExpr(
+                                                          SingleTerm(
+                                                            DesignatorFactor(
+                                                              SingleDesignator(
+                                                               i
+                                                              ) [SingleDesignator]
+                                                            ) [DesignatorFactor]
+                                                          ) [SingleTerm]
+                                                        ) [SingleExpr]
+                                                        RelOpLss(
+                                                        ) [RelOpLss]
+                                                        SingleExpr(
+                                                          SingleTerm(
+                                                            NumberFactor(
+                                                             10
+                                                            ) [NumberFactor]
+                                                          ) [SingleTerm]
+                                                        ) [SingleExpr]
+                                                      ) [CondFactRelop]
+                                                    ) [SingleCondTerm]
+                                                  ) [SingleCondition]
+                                                ) [DoWhileStatement]
+                                              ) [StatementSingle]
+                                            ) [StatementListHasStatements]
+                                            StatementSingle(
+                                              IfElseStatement(
+                                                IfCondition(
+                                                  SingleCondition(
+                                                    CondTermMultiple(
+                                                      SingleCondTerm(
+                                                        CondFactRelop(
+                                                          SingleExpr(
+                                                            SingleTerm(
+                                                              DesignatorFactor(
+                                                                SingleDesignator(
+                                                                 i
+                                                                ) [SingleDesignator]
+                                                              ) [DesignatorFactor]
+                                                            ) [SingleTerm]
+                                                          ) [SingleExpr]
+                                                          RelOpEqu(
+                                                          ) [RelOpEqu]
+                                                          SingleExpr(
+                                                            SingleTerm(
+                                                              NumberFactor(
+                                                               3
+                                                              ) [NumberFactor]
+                                                            ) [SingleTerm]
+                                                          ) [SingleExpr]
+                                                        ) [CondFactRelop]
+                                                      ) [SingleCondTerm]
+                                                      CondFactNoRelop(
+                                                        SingleExpr(
+                                                          SingleTerm(
+                                                            DesignatorActParsFactor(
+                                                              MakeNewActParmsListDesignator(
+                                                                SingleDesignator(
+                                                                 verify
+                                                                ) [SingleDesignator]
+                                                              ) [MakeNewActParmsListDesignator]
+                                                              EmptyActParsList(
+                                                              ) [EmptyActParsList]
+                                                            ) [DesignatorActParsFactor]
+                                                          ) [SingleTerm]
+                                                        ) [SingleExpr]
+                                                      ) [CondFactNoRelop]
+                                                    ) [CondTermMultiple]
+                                                  ) [SingleCondition]
+                                                ) [IfCondition]
+                                                StatementSingle(
+                                                  PrintNoNumStatement(
+                                                    SingleNegExpr(
+                                                      SingleTerm(
+                                                        NumberFactor(
+                                                         4
+                                                        ) [NumberFactor]
+                                                      ) [SingleTerm]
+                                                    ) [SingleNegExpr]
+                                                  ) [PrintNoNumStatement]
+                                                ) [StatementSingle]
+                                                StatementSingle(
+                                                  PrintNoNumStatement(
+                                                    SingleExpr(
+                                                      SingleTerm(
+                                                        NumberFactor(
+                                                         4
+                                                        ) [NumberFactor]
+                                                      ) [SingleTerm]
+                                                    ) [SingleExpr]
+                                                  ) [PrintNoNumStatement]
+                                                ) [StatementSingle]
+                                              ) [IfElseStatement]
+                                            ) [StatementSingle]
+                                          ) [StatementListHasStatements]
+                                          StatementSingle(
+                                            ReadStatement(
+                                              DesignatorArray(
+                                                SingleDesignator(
+                                                 niz
+                                                ) [SingleDesignator]
+                                                SingleExpr(
+                                                  SingleTerm(
+                                                    NumberFactor(
+                                                     0
+                                                    ) [NumberFactor]
+                                                  ) [SingleTerm]
+                                                ) [SingleExpr]
+                                              ) [DesignatorArray]
+                                            ) [ReadStatement]
+                                          ) [StatementSingle]
+                                        ) [StatementListHasStatements]
+                                        StatementSingle(
+                                          ReadStatement(
+                                            DesignatorArray(
+                                              SingleDesignator(
+                                               niz
+                                              ) [SingleDesignator]
+                                              SingleExpr(
+                                                SingleTerm(
+                                                  NumberFactor(
+                                                   1
+                                                  ) [NumberFactor]
+                                                ) [SingleTerm]
+                                              ) [SingleExpr]
+                                            ) [DesignatorArray]
+                                          ) [ReadStatement]
+                                        ) [StatementSingle]
+                                      ) [StatementListHasStatements]
+                                      StatementSingle(
+                                        ReadStatement(
+                                          DesignatorArray(
+                                            SingleDesignator(
+                                             niz
+                                            ) [SingleDesignator]
+                                            SingleExpr(
+                                              SingleTerm(
+                                                NumberFactor(
+                                                 2
+                                                ) [NumberFactor]
+                                              ) [SingleTerm]
+                                            ) [SingleExpr]
+                                          ) [DesignatorArray]
+                                        ) [ReadStatement]
+                                      ) [StatementSingle]
+                                    ) [StatementListHasStatements]
+                                    StatementSingle(
+                                      PrintNoNumStatement(
+                                        SingleExpr(
+                                          SingleTerm(
+                                            DesignatorFactor(
+                                              SingleDesignator(
+                                               eol
+                                              ) [SingleDesignator]
+                                            ) [DesignatorFactor]
+                                          ) [SingleTerm]
+                                        ) [SingleExpr]
+                                      ) [PrintNoNumStatement]
+                                    ) [StatementSingle]
+                                  ) [StatementListHasStatements]
+                                  StatementSingle(
+                                    PrintNoNumStatement(
+                                      SingleExpr(
+                                        SingleTerm(
+                                          DesignatorActParsFactor(
+                                            MakeNewActParmsListDesignator(
+                                              SingleDesignator(
+                                               sum
+                                              ) [SingleDesignator]
+                                            ) [MakeNewActParmsListDesignator]
+                                            ActParsListExists(
+                                              ActParsMultiple(
+                                                ActParsSingle(
+                                                  SingleExpr(
+                                                    SingleTerm(
+                                                      DesignatorActParsFactor(
+                                                        MakeNewActParmsListDesignator(
+                                                          SingleDesignator(
+                                                           sum
+                                                          ) [SingleDesignator]
+                                                        ) [MakeNewActParmsListDesignator]
+                                                        ActParsListExists(
+                                                          ActParsMultiple(
+                                                            ActParsSingle(
+                                                              SingleExpr(
+                                                                SingleTerm(
+                                                                  DesignatorFactor(
+                                                                    DesignatorArray(
+                                                                      SingleDesignator(
+                                                                       niz
+                                                                      ) [SingleDesignator]
+                                                                      SingleExpr(
+                                                                        SingleTerm(
+                                                                          NumberFactor(
+                                                                           0
+                                                                          ) [NumberFactor]
+                                                                        ) [SingleTerm]
+                                                                      ) [SingleExpr]
+                                                                    ) [DesignatorArray]
+                                                                  ) [DesignatorFactor]
+                                                                ) [SingleTerm]
+                                                              ) [SingleExpr]
+                                                            ) [ActParsSingle]
+                                                            SingleExpr(
+                                                              SingleTerm(
+                                                                DesignatorFactor(
+                                                                  DesignatorArray(
+                                                                    SingleDesignator(
+                                                                     niz
+                                                                    ) [SingleDesignator]
+                                                                    SingleExpr(
+                                                                      SingleTerm(
+                                                                        NumberFactor(
+                                                                         1
+                                                                        ) [NumberFactor]
+                                                                      ) [SingleTerm]
+                                                                    ) [SingleExpr]
+                                                                  ) [DesignatorArray]
+                                                                ) [DesignatorFactor]
+                                                              ) [SingleTerm]
+                                                            ) [SingleExpr]
+                                                          ) [ActParsMultiple]
+                                                        ) [ActParsListExists]
+                                                      ) [DesignatorActParsFactor]
+                                                    ) [SingleTerm]
+                                                  ) [SingleExpr]
+                                                ) [ActParsSingle]
+                                                SingleExpr(
+                                                  SingleTerm(
+                                                    DesignatorFactor(
+                                                      DesignatorArray(
+                                                        SingleDesignator(
+                                                         niz
+                                                        ) [SingleDesignator]
+                                                        SingleExpr(
+                                                          SingleTerm(
+                                                            NumberFactor(
+                                                             2
+                                                            ) [NumberFactor]
+                                                          ) [SingleTerm]
+                                                        ) [SingleExpr]
+                                                      ) [DesignatorArray]
+                                                    ) [DesignatorFactor]
+                                                  ) [SingleTerm]
+                                                ) [SingleExpr]
+                                              ) [ActParsMultiple]
+                                            ) [ActParsListExists]
+                                          ) [DesignatorActParsFactor]
+                                        ) [SingleTerm]
+                                      ) [SingleExpr]
+                                    ) [PrintNoNumStatement]
+                                  ) [StatementSingle]
+                                ) [StatementListHasStatements]
+                                StatementSingle(
+                                  PrintNoNumStatement(
+                                    SingleExpr(
+                                      SingleTerm(
+                                        DesignatorFactor(
+                                          SingleDesignator(
+                                           eol
+                                          ) [SingleDesignator]
+                                        ) [DesignatorFactor]
+                                      ) [SingleTerm]
+                                    ) [SingleExpr]
+                                  ) [PrintNoNumStatement]
+                                ) [StatementSingle]
+                              ) [StatementListHasStatements]
+                              StatementSingle(
+                                PrintNoNumStatement(
+                                  SingleExpr(
+                                    SingleTerm(
+                                      DesignatorActParsFactor(
+                                        MakeNewActParmsListDesignator(
+                                          SingleDesignator(
+                                           inkrement
+                                          ) [SingleDesignator]
+                                        ) [MakeNewActParmsListDesignator]
+                                        ActParsListExists(
+                                          ActParsMultiple(
+                                            ActParsSingle(
+                                              SingleExpr(
+                                                SingleTerm(
+                                                  DesignatorFactor(
+                                                    DesignatorArray(
+                                                      SingleDesignator(
+                                                       niz
+                                                      ) [SingleDesignator]
+                                                      SingleExpr(
+                                                        SingleTerm(
+                                                          NumberFactor(
+                                                           2
+                                                          ) [NumberFactor]
+                                                        ) [SingleTerm]
+                                                      ) [SingleExpr]
+                                                    ) [DesignatorArray]
+                                                  ) [DesignatorFactor]
+                                                ) [SingleTerm]
+                                              ) [SingleExpr]
+                                            ) [ActParsSingle]
+                                            SingleExpr(
+                                              SingleTerm(
+                                                NumberFactor(
+                                                 2
+                                                ) [NumberFactor]
+                                              ) [SingleTerm]
+                                            ) [SingleExpr]
+                                          ) [ActParsMultiple]
+                                        ) [ActParsListExists]
+                                      ) [DesignatorActParsFactor]
+                                    ) [SingleTerm]
+                                  ) [SingleExpr]
+                                ) [PrintNoNumStatement]
+                              ) [StatementSingle]
+                            ) [StatementListHasStatements]
+                            StatementSingle(
+                              DStatement(
+                                DesignatorStatementAssign(
+                                  DesignatorAssign(
+                                    SingleDesignator(
+                                     a
+                                    ) [SingleDesignator]
+                                    Assign(
+                                    ) [Assign]
+                                    SingleExpr(
+                                      SingleTerm(
+                                        NumberFactor(
+                                         3
+                                        ) [NumberFactor]
+                                      ) [SingleTerm]
+                                    ) [SingleExpr]
+                                  ) [DesignatorAssign]
+                                ) [DesignatorStatementAssign]
+                              ) [DStatement]
+                            ) [StatementSingle]
+                          ) [StatementListHasStatements]
+                          StatementSingle(
+                            DStatement(
+                              DesignatorStatementAssign(
+                                DesignatorAssign(
+                                  SingleDesignator(
+                                   i
+                                  ) [SingleDesignator]
+                                  Assign(
+                                  ) [Assign]
+                                  SingleExpr(
+                                    SingleTerm(
+                                      NumberFactor(
+                                       0
+                                      ) [NumberFactor]
+                                    ) [SingleTerm]
+                                  ) [SingleExpr]
+                                ) [DesignatorAssign]
+                              ) [DesignatorStatementAssign]
+                            ) [DStatement]
+                          ) [StatementSingle]
+                        ) [StatementListHasStatements]
+                        StatementSingle(
+                          DoWhileStatement(
+                            DoForCheck(
+                            ) [DoForCheck]
+                            StatementsMultiple(
+                              Block(
+                                StatementListHasStatements(
+                                  StatementListHasStatements(
+                                    EmptyStatementList(
+                                    ) [EmptyStatementList]
+                                    StatementSingle(
+                                      DStatement(
+                                        DesignatorStatementAssign(
+                                          DesignatorAssign(
+                                            DesignatorArray(
+                                              SingleDesignator(
+                                               niz
+                                              ) [SingleDesignator]
+                                              SingleExpr(
+                                                SingleTerm(
+                                                  DesignatorFactor(
+                                                    SingleDesignator(
+                                                     i
+                                                    ) [SingleDesignator]
+                                                  ) [DesignatorFactor]
+                                                ) [SingleTerm]
+                                              ) [SingleExpr]
+                                            ) [DesignatorArray]
+                                            Assign(
+                                            ) [Assign]
+                                            SingleExpr(
+                                              TermMultiple(
+                                                TermMultiple(
+                                                  SingleTerm(
+                                                    DesignatorFactor(
+                                                      DesignatorArray(
+                                                        SingleDesignator(
+                                                         niz
+                                                        ) [SingleDesignator]
+                                                        SingleExpr(
+                                                          SingleTerm(
+                                                            DesignatorFactor(
+                                                              SingleDesignator(
+                                                               i
+                                                              ) [SingleDesignator]
+                                                            ) [DesignatorFactor]
+                                                          ) [SingleTerm]
+                                                        ) [SingleExpr]
+                                                      ) [DesignatorArray]
+                                                    ) [DesignatorFactor]
+                                                  ) [SingleTerm]
+                                                  MulOpStar(
+                                                  ) [MulOpStar]
+                                                  NumberFactor(
+                                                   2
+                                                  ) [NumberFactor]
+                                                ) [TermMultiple]
+                                                MulOpStar(
+                                                ) [MulOpStar]
+                                                DesignatorFactor(
+                                                  SingleDesignator(
+                                                   a
+                                                  ) [SingleDesignator]
+                                                ) [DesignatorFactor]
+                                              ) [TermMultiple]
+                                            ) [SingleExpr]
+                                          ) [DesignatorAssign]
+                                        ) [DesignatorStatementAssign]
+                                      ) [DStatement]
+                                    ) [StatementSingle]
+                                  ) [StatementListHasStatements]
+                                  StatementSingle(
+                                    DStatement(
+                                      DesignatorStatementInc(
+                                        SingleDesignator(
+                                         i
+                                        ) [SingleDesignator]
+                                      ) [DesignatorStatementInc]
+                                    ) [DStatement]
+                                  ) [StatementSingle]
+                                ) [StatementListHasStatements]
+                              ) [Block]
+                            ) [StatementsMultiple]
+                            SingleCondition(
+                              SingleCondTerm(
+                                CondFactRelop(
+                                  SingleExpr(
+                                    SingleTerm(
+                                      DesignatorFactor(
+                                        SingleDesignator(
+                                         i
+                                        ) [SingleDesignator]
+                                      ) [DesignatorFactor]
+                                    ) [SingleTerm]
+                                  ) [SingleExpr]
+                                  RelOpLss(
+                                  ) [RelOpLss]
+                                  SingleExpr(
+                                    SingleTerm(
+                                      NumberFactor(
+                                       3
+                                      ) [NumberFactor]
+                                    ) [SingleTerm]
+                                  ) [SingleExpr]
+                                ) [CondFactRelop]
+                              ) [SingleCondTerm]
+                            ) [SingleCondition]
+                          ) [DoWhileStatement]
+                        ) [StatementSingle]
+                      ) [StatementListHasStatements]
+                      StatementSingle(
+                        PrintNoNumStatement(
+                          SingleExpr(
+                            SingleTerm(
+                              DesignatorFactor(
+                                DesignatorArray(
+                                  SingleDesignator(
+                                   niz
+                                  ) [SingleDesignator]
+                                  SingleExpr(
+                                    SingleTerm(
+                                      NumberFactor(
+                                       0
+                                      ) [NumberFactor]
+                                    ) [SingleTerm]
+                                  ) [SingleExpr]
+                                ) [DesignatorArray]
+                              ) [DesignatorFactor]
+                            ) [SingleTerm]
+                          ) [SingleExpr]
+                        ) [PrintNoNumStatement]
+                      ) [StatementSingle]
+                    ) [StatementListHasStatements]
+                    StatementSingle(
+                      PrintNoNumStatement(
+                        SingleExpr(
+                          SingleTerm(
+                            DesignatorFactor(
+                              DesignatorArray(
+                                SingleDesignator(
+                                 niz
+                                ) [SingleDesignator]
+                                SingleExpr(
+                                  SingleTerm(
+                                    NumberFactor(
+                                     1
+                                    ) [NumberFactor]
+                                  ) [SingleTerm]
+                                ) [SingleExpr]
+                              ) [DesignatorArray]
+                            ) [DesignatorFactor]
+                          ) [SingleTerm]
+                        ) [SingleExpr]
+                      ) [PrintNoNumStatement]
+                    ) [StatementSingle]
+                  ) [StatementListHasStatements]
+                  StatementSingle(
+                    PrintNoNumStatement(
+                      SingleExpr(
+                        SingleTerm(
+                          DesignatorFactor(
+                            DesignatorArray(
+                              SingleDesignator(
+                               niz
+                              ) [SingleDesignator]
+                              SingleExpr(
+                                SingleTerm(
+                                  NumberFactor(
+                                   2
+                                  ) [NumberFactor]
+                                ) [SingleTerm]
+                              ) [SingleExpr]
+                            ) [DesignatorArray]
+                          ) [DesignatorFactor]
+                        ) [SingleTerm]
+                      ) [SingleExpr]
+                    ) [PrintNoNumStatement]
+                  ) [StatementSingle]
+                ) [StatementListHasStatements]
+                StatementSingle(
+                  PrintNoNumStatement(
+                    SingleExpr(
+                      SingleTerm(
+                        DesignatorFactor(
+                          SingleDesignator(
+                           eol
+                          ) [SingleDesignator]
+                        ) [DesignatorFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                  ) [PrintNoNumStatement]
+                ) [StatementSingle]
+              ) [StatementListHasStatements]
+              StatementSingle(
+                DStatement(
+                  DesignatorStatementAssign(
+                    DesignatorAssign(
+                      SingleDesignator(
+                       i
+                      ) [SingleDesignator]
+                      Assign(
+                      ) [Assign]
+                      SingleExpr(
+                        SingleTerm(
+                          NumberFactor(
+                           0
+                          ) [NumberFactor]
+                        ) [SingleTerm]
+                      ) [SingleExpr]
+                    ) [DesignatorAssign]
+                  ) [DesignatorStatementAssign]
+                ) [DStatement]
+              ) [StatementSingle]
+            ) [StatementListHasStatements]
+            StatementSingle(
+              DStatement(
+                DesignatorStatementAssign(
+                  DesignatorAssign(
+                    SingleDesignator(
+                     niz2
+                    ) [SingleDesignator]
+                    Assign(
+                    ) [Assign]
+                    SingleExpr(
+                      SingleTerm(
+                        NumberFactor(
+                         0
+                        ) [NumberFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                  ) [DesignatorAssign]
+                ) [DesignatorStatementAssign]
+              ) [DStatement]
+            ) [StatementSingle]
+          ) [StatementListHasStatements]
+          StatementSingle(
+            DoWhileStatement(
+              DoForCheck(
+              ) [DoForCheck]
+              StatementsMultiple(
+                Block(
+                  StatementListHasStatements(
+                    StatementListHasStatements(
+                      EmptyStatementList(
+                      ) [EmptyStatementList]
+                      StatementSingle(
+                        DStatement(
+                          DesignatorStatementAssign(
+                            DesignatorAssign(
+                              SingleDesignator(
+                               niz2
+                              ) [SingleDesignator]
+                              Assign(
+                              ) [Assign]
+                              ExprMultiple(
+                                SingleExpr(
+                                  SingleTerm(
+                                    DesignatorFactor(
+                                      SingleDesignator(
+                                       niz2
+                                      ) [SingleDesignator]
+                                    ) [DesignatorFactor]
+                                  ) [SingleTerm]
+                                ) [SingleExpr]
+                                AddOpPlus(
+                                ) [AddOpPlus]
+                                TermMultiple(
+                                  SingleTerm(
+                                    DesignatorFactor(
+                                      DesignatorArray(
+                                        SingleDesignator(
+                                         niz
+                                        ) [SingleDesignator]
+                                        SingleExpr(
+                                          SingleTerm(
+                                            DesignatorFactor(
+                                              SingleDesignator(
+                                               i
+                                              ) [SingleDesignator]
+                                            ) [DesignatorFactor]
+                                          ) [SingleTerm]
+                                        ) [SingleExpr]
+                                      ) [DesignatorArray]
+                                    ) [DesignatorFactor]
+                                  ) [SingleTerm]
+                                  MulOpStar(
+                                  ) [MulOpStar]
+                                  DesignatorFactor(
+                                    DesignatorArray(
+                                      SingleDesignator(
+                                       niz
+                                      ) [SingleDesignator]
+                                      SingleExpr(
+                                        SingleTerm(
+                                          DesignatorFactor(
+                                            SingleDesignator(
+                                             i
+                                            ) [SingleDesignator]
+                                          ) [DesignatorFactor]
+                                        ) [SingleTerm]
+                                      ) [SingleExpr]
+                                    ) [DesignatorArray]
+                                  ) [DesignatorFactor]
+                                ) [TermMultiple]
+                              ) [ExprMultiple]
+                            ) [DesignatorAssign]
+                          ) [DesignatorStatementAssign]
+                        ) [DStatement]
+                      ) [StatementSingle]
+                    ) [StatementListHasStatements]
+                    StatementSingle(
+                      DStatement(
+                        DesignatorStatementInc(
+                          SingleDesignator(
+                           i
+                          ) [SingleDesignator]
+                        ) [DesignatorStatementInc]
+                      ) [DStatement]
+                    ) [StatementSingle]
+                  ) [StatementListHasStatements]
+                ) [Block]
+              ) [StatementsMultiple]
+              SingleCondition(
+                SingleCondTerm(
+                  CondFactRelop(
+                    SingleExpr(
+                      SingleTerm(
+                        DesignatorFactor(
+                          SingleDesignator(
+                           i
+                          ) [SingleDesignator]
+                        ) [DesignatorFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                    RelOpLss(
+                    ) [RelOpLss]
+                    SingleExpr(
+                      SingleTerm(
+                        NumberFactor(
+                         3
+                        ) [NumberFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                  ) [CondFactRelop]
+                ) [SingleCondTerm]
+              ) [SingleCondition]
+            ) [DoWhileStatement]
+          ) [StatementSingle]
+        ) [StatementListHasStatements]
+        StatementSingle(
+          PrintNoNumStatement(
+            SingleExpr(
+              SingleTerm(
+                DesignatorFactor(
+                  SingleDesignator(
+                   niz2
+                  ) [SingleDesignator]
+                ) [DesignatorFactor]
+              ) [SingleTerm]
+            ) [SingleExpr]
+          ) [PrintNoNumStatement]
+        ) [StatementSingle]
+      ) [StatementListHasStatements]
+    ) [MethodDecl]
+  ) [MethodDList]
+) [Program]
+INFO  19:17:51,307 - ==================SEMANTICKA OBRADA====================
+INFO  19:17:51,355 - Pristup parametru metode Var z: int, 0, 1  na liniji 19
+INFO  19:17:51,355 - Pristup parametru metode Var d: int, 1, 1  na liniji 19
+INFO  19:17:51,356 - Pristup parametru metode Var inc: int, 1, 1  na liniji 26
+INFO  19:17:51,356 - Pristup lokalnoj promenljivi Var pom: int, 2, 1  na liniji 26
+INFO  19:17:51,356 - Pristup parametru metode Var inc: int, 1, 1  na liniji 27
+INFO  19:17:51,356 - Pristup lokalnoj promenljivi Var pom: int, 2, 1  na liniji 27
+INFO  19:17:51,356 - Pristup parametru metode Var a: int, 0, 1  na liniji 27
+INFO  19:17:51,357 - Pristup parametru metode Var a: int, 0, 1  na liniji 29
+INFO  19:17:51,357 - Pristup lokalnoj promenljivi Var pom: int, 2, 1  na liniji 29
+INFO  19:17:51,357 - Poziv globalne metode Meth sum: int, 0, 2 
+   Var z: int, 0, 1 
+   Var d: int, 1, 1 
+ na liniji 29
+INFO  19:17:51,357 - Poziv globalne metode Meth sum: int, 0, 2 
+   Var z: int, 0, 1 
+   Var d: int, 1, 1 
+ na liniji 40
+INFO  19:17:51,357 - Poziv globalne metode Meth sum: int, 0, 2 
+   Var z: int, 0, 1 
+   Var d: int, 1, 1 
+ na liniji 41
+INFO  19:17:51,357 - Pristup globalnoj promenljivi Var ibool: , 1, 0  na liniji 45
+INFO  19:17:51,357 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 46
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 48
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var ibool: , 1, 0  na liniji 48
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 49
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 50
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var ibool: , 1, 0  na liniji 52
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 53
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var a: int, 4, 0  na liniji 55
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 56
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 57
+INFO  19:17:51,358 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 57
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var a: int, 4, 0  na liniji 57
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 58
+INFO  19:17:51,358 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 58
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var a: int, 4, 0  na liniji 58
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 59
+INFO  19:17:51,358 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 59
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 59
+INFO  19:17:51,358 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 59
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 59
+INFO  19:17:51,358 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 59
+INFO  19:17:51,358 - Poziv globalne metode Meth sum: int, 0, 2 
+   Var z: int, 0, 1 
+   Var d: int, 1, 1 
+ na liniji 59
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var a: int, 4, 0  na liniji 59
+INFO  19:17:51,358 - Poziv globalne metode Meth verify: , 0, 0 
+ na liniji 60
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 60
+INFO  19:17:51,358 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 60
+INFO  19:17:51,358 - Poziv globalne metode Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+ na liniji 60
+INFO  19:17:51,358 - Poziv globalne metode Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+ na liniji 61
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 64
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 66
+INFO  19:17:51,358 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 68
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 71
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 72
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 72
+INFO  19:17:51,359 - Poziv globalne metode Meth inkrement: int, 0, 2 
+   Var a: int, 0, 1 
+   Var inc: int, 1, 1 
+   Var pom: int, 2, 1 
+ na liniji 72
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 73
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 75
+INFO  19:17:51,359 - Poziv globalne metode Meth verify: , 0, 0 
+ na liniji 75
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 78
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 78
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 79
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 79
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 80
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 80
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 82
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 82
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 82
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 82
+INFO  19:17:51,359 - Poziv globalne metode Meth sum: int, 0, 2 
+   Var z: int, 0, 1 
+   Var d: int, 1, 1 
+ na liniji 82
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 82
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 82
+INFO  19:17:51,359 - Poziv globalne metode Meth sum: int, 0, 2 
+   Var z: int, 0, 1 
+   Var d: int, 1, 1 
+ na liniji 82
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 85
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 85
+INFO  19:17:51,359 - Poziv globalne metode Meth inkrement: int, 0, 2 
+   Var a: int, 0, 1 
+   Var inc: int, 1, 1 
+   Var pom: int, 2, 1 
+ na liniji 85
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var a: int, 4, 0  na liniji 87
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 88
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 90
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 90
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 90
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 90
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 90
+INFO  19:17:51,359 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 90
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var a: int, 4, 0  na liniji 90
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 91
+INFO  19:17:51,359 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 92
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 93
+INFO  19:17:51,360 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 93
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 94
+INFO  19:17:51,360 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 94
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 95
+INFO  19:17:51,360 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 95
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 98
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz2: int, 2, 0  na liniji 99
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz2: int, 2, 0  na liniji 101
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz2: int, 2, 0  na liniji 101
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 101
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 101
+INFO  19:17:51,360 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 101
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz: Arr of int, 3, 0  na liniji 101
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 101
+INFO  19:17:51,360 - Pristup elementu niza Var niz: Arr of int, 3, 0  na liniji 101
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 102
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var i: int, 0, 0  na liniji 103
+INFO  19:17:51,360 - Pristup globalnoj promenljivi Var niz2: int, 2, 0  na liniji 104
+INFO  19:17:51,360 - Semanticka analiza uspesno zavrsena.
+INFO  19:17:51,360 - =====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog test302: notype, 0, 1 
+   Con jedan: int, 1, 0 
+   Var i: int, 0, 0 
+   Var ibool: , 1, 0 
+   Var niz2: int, 2, 0 
+   Var niz: Arr of int, 3, 0 
+   Var a: int, 4, 0 
+   Meth sum: int, 0, 2 
+      Var z: int, 0, 1 
+      Var d: int, 1, 1 
+
+   Meth inkrement: int, 0, 2 
+      Var a: int, 0, 1 
+      Var inc: int, 1, 1 
+      Var pom: int, 2, 1 
+
+   Meth verify: , 0, 0 
+
+   Meth main: notype, 0, 0 
+
+
+

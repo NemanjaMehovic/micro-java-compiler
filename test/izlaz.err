@@ -1,0 +1,4 @@
+ERROR 20:43:46,411 - test2 ne postoji kao polje/metoda klase m[] na liniji 33
+ERROR 20:43:46,411 - noObj nije metoda. na liniji 33
+ERROR 20:43:46,411 - Operand  mora biti tipa int, char ili bool. na liniji 33
+ERROR 20:43:46,411 - Doslo je do greske kod semanticke analize.

@@ -1,0 +1,351 @@
+INFO  20:43:46,233 - Compiling source file: C:\Users\neman\Desktop\PP_projekat\test\test.mj
+INFO  20:43:46,370 - #2 program
+INFO  20:43:46,370 - #49 test_303
+INFO  20:43:46,370 - #6 const
+INFO  20:43:46,372 - #49 int
+INFO  20:43:46,372 - #49 cinilac
+INFO  20:43:46,374 - #35 =
+INFO  20:43:46,374 - #48 4
+INFO  20:43:46,374 - #40 ,
+INFO  20:43:46,374 - #49 delilac
+INFO  20:43:46,374 - #35 =
+INFO  20:43:46,377 - #48 3
+INFO  20:43:46,377 - #38 ;
+INFO  20:43:46,377 - #4 class
+INFO  20:43:46,378 - #49 Predmet
+INFO  20:43:46,378 - #46 {
+INFO  20:43:46,380 - #46 {
+INFO  20:43:46,381 - #49 int
+INFO  20:43:46,381 - #49 test
+INFO  20:43:46,381 - #42 (
+INFO  20:43:46,381 - #43 )
+INFO  20:43:46,382 - #46 {
+INFO  20:43:46,384 - #20 return
+INFO  20:43:46,385 - #48 1
+INFO  20:43:46,385 - #38 ;
+INFO  20:43:46,385 - #47 }
+INFO  20:43:46,385 - #47 }
+INFO  20:43:46,387 - #47 }
+INFO  20:43:46,387 - #4 class
+INFO  20:43:46,388 - #49 Sfera
+INFO  20:43:46,388 - #11 extends
+INFO  20:43:46,388 - #49 Predmet
+INFO  20:43:46,388 - #46 {
+INFO  20:43:46,388 - #46 {
+INFO  20:43:46,388 - #49 int
+INFO  20:43:46,388 - #49 test2
+INFO  20:43:46,388 - #42 (
+INFO  20:43:46,388 - #43 )
+INFO  20:43:46,388 - #46 {
+INFO  20:43:46,388 - #20 return
+INFO  20:43:46,388 - #48 2
+INFO  20:43:46,388 - #38 ;
+INFO  20:43:46,389 - #47 }
+INFO  20:43:46,389 - #47 }
+INFO  20:43:46,389 - #47 }
+INFO  20:43:46,389 - #49 Predmet
+INFO  20:43:46,389 - #49 m
+INFO  20:43:46,389 - #44 [
+INFO  20:43:46,389 - #45 ]
+INFO  20:43:46,389 - #38 ;
+INFO  20:43:46,389 - #46 {
+INFO  20:43:46,389 - #10 void
+INFO  20:43:46,389 - #49 main
+INFO  20:43:46,389 - #42 (
+INFO  20:43:46,390 - #43 )
+INFO  20:43:46,390 - #46 {
+INFO  20:43:46,390 - #49 m
+INFO  20:43:46,390 - #35 =
+INFO  20:43:46,390 - #7 new
+INFO  20:43:46,392 - #49 Predmet
+INFO  20:43:46,392 - #44 [
+INFO  20:43:46,392 - #48 3
+INFO  20:43:46,392 - #45 ]
+INFO  20:43:46,392 - #38 ;
+INFO  20:43:46,393 - #49 m
+INFO  20:43:46,393 - #44 [
+INFO  20:43:46,393 - #48 1
+INFO  20:43:46,393 - #45 ]
+INFO  20:43:46,393 - #35 =
+INFO  20:43:46,393 - #7 new
+INFO  20:43:46,393 - #49 Sfera
+INFO  20:43:46,393 - #38 ;
+INFO  20:43:46,393 - #8 print
+INFO  20:43:46,393 - #42 (
+INFO  20:43:46,393 - #49 m
+INFO  20:43:46,393 - #44 [
+INFO  20:43:46,393 - #48 1
+INFO  20:43:46,393 - #45 ]
+INFO  20:43:46,394 - #41 .
+INFO  20:43:46,394 - #49 test2
+INFO  20:43:46,394 - #42 (
+INFO  20:43:46,395 - #43 )
+INFO  20:43:46,396 - #43 )
+INFO  20:43:46,396 - #38 ;
+INFO  20:43:46,396 - #47 }
+INFO  20:43:46,396 - #47 }
+INFO  20:43:46,397 - Parsiranje uspesno zavrseno.
+INFO  20:43:46,398 - Program(
+  ProgramName(
+   test_303
+  ) [ProgramName]
+  MultipleDecl(
+    MultipleDecl(
+      MultipleDecl(
+        MultipleDecl(
+          EmptyDeclList(
+          ) [EmptyDeclList]
+          ConstDeclD(
+            ConstD(
+              ConstTypeName(
+                Type(
+                 int
+                ) [Type]
+              ) [ConstTypeName]
+              MultipleConst(
+                SingleConst(
+                  NumberConst(
+                   cinilac
+                   4
+                  ) [NumberConst]
+                ) [SingleConst]
+                NumberConst(
+                 delilac
+                 3
+                ) [NumberConst]
+              ) [MultipleConst]
+            ) [ConstD]
+          ) [ConstDeclD]
+        ) [MultipleDecl]
+        ClassDeclD(
+          ClassDecl(
+            ClassName(
+             Predmet
+            ) [ClassName]
+            EmptyClassEx(
+            ) [EmptyClassEx]
+            EmptyVarDeclList(
+            ) [EmptyVarDeclList]
+            ClassMethodsBodyNoConstructor(
+              SingleMethodDeclList(
+                MethodDecl(
+                  MethodType(
+                    Type(
+                     int
+                    ) [Type]
+                   test
+                  ) [MethodType]
+                  EmptyMethodParams(
+                  ) [EmptyMethodParams]
+                  MethodSigEnd(
+                  ) [MethodSigEnd]
+                  EmptyVarDeclListNoError(
+                  ) [EmptyVarDeclListNoError]
+                  StatementListHasStatements(
+                    EmptyStatementList(
+                    ) [EmptyStatementList]
+                    StatementSingle(
+                      ReturnExprStatement(
+                        SingleExpr(
+                          SingleTerm(
+                            NumberFactor(
+                             1
+                            ) [NumberFactor]
+                          ) [SingleTerm]
+                        ) [SingleExpr]
+                      ) [ReturnExprStatement]
+                    ) [StatementSingle]
+                  ) [StatementListHasStatements]
+                ) [MethodDecl]
+              ) [SingleMethodDeclList]
+            ) [ClassMethodsBodyNoConstructor]
+          ) [ClassDecl]
+        ) [ClassDeclD]
+      ) [MultipleDecl]
+      ClassDeclD(
+        ClassDecl(
+          ClassName(
+           Sfera
+          ) [ClassName]
+          ClassEx(
+            Type(
+             Predmet
+            ) [Type]
+          ) [ClassEx]
+          EmptyVarDeclList(
+          ) [EmptyVarDeclList]
+          ClassMethodsBodyNoConstructor(
+            SingleMethodDeclList(
+              MethodDecl(
+                MethodType(
+                  Type(
+                   int
+                  ) [Type]
+                 test2
+                ) [MethodType]
+                EmptyMethodParams(
+                ) [EmptyMethodParams]
+                MethodSigEnd(
+                ) [MethodSigEnd]
+                EmptyVarDeclListNoError(
+                ) [EmptyVarDeclListNoError]
+                StatementListHasStatements(
+                  EmptyStatementList(
+                  ) [EmptyStatementList]
+                  StatementSingle(
+                    ReturnExprStatement(
+                      SingleExpr(
+                        SingleTerm(
+                          NumberFactor(
+                           2
+                          ) [NumberFactor]
+                        ) [SingleTerm]
+                      ) [SingleExpr]
+                    ) [ReturnExprStatement]
+                  ) [StatementSingle]
+                ) [StatementListHasStatements]
+              ) [MethodDecl]
+            ) [SingleMethodDeclList]
+          ) [ClassMethodsBodyNoConstructor]
+        ) [ClassDecl]
+      ) [ClassDeclD]
+    ) [MultipleDecl]
+    VarDeclD(
+      VarD(
+        Type(
+         Predmet
+        ) [Type]
+        SingleVar(
+          ArrayVar(
+           m
+          ) [ArrayVar]
+        ) [SingleVar]
+      ) [VarD]
+    ) [VarDeclD]
+  ) [MultipleDecl]
+  SingleMethodDeclList(
+    MethodDecl(
+      MethodVoid(
+       main
+      ) [MethodVoid]
+      EmptyMethodParams(
+      ) [EmptyMethodParams]
+      MethodSigEnd(
+      ) [MethodSigEnd]
+      EmptyVarDeclListNoError(
+      ) [EmptyVarDeclListNoError]
+      StatementListHasStatements(
+        StatementListHasStatements(
+          StatementListHasStatements(
+            EmptyStatementList(
+            ) [EmptyStatementList]
+            StatementSingle(
+              DStatement(
+                DesignatorStatementAssign(
+                  DesignatorAssign(
+                    SingleDesignator(
+                     m
+                    ) [SingleDesignator]
+                    Assign(
+                    ) [Assign]
+                    SingleExpr(
+                      SingleTerm(
+                        TypeExprFactor(
+                          Type(
+                           Predmet
+                          ) [Type]
+                          SingleExpr(
+                            SingleTerm(
+                              NumberFactor(
+                               3
+                              ) [NumberFactor]
+                            ) [SingleTerm]
+                          ) [SingleExpr]
+                        ) [TypeExprFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                  ) [DesignatorAssign]
+                ) [DesignatorStatementAssign]
+              ) [DStatement]
+            ) [StatementSingle]
+          ) [StatementListHasStatements]
+          StatementSingle(
+            DStatement(
+              DesignatorStatementAssign(
+                DesignatorAssign(
+                  DesignatorArray(
+                    SingleDesignator(
+                     m
+                    ) [SingleDesignator]
+                    SingleExpr(
+                      SingleTerm(
+                        NumberFactor(
+                         1
+                        ) [NumberFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                  ) [DesignatorArray]
+                  Assign(
+                  ) [Assign]
+                  SingleExpr(
+                    SingleTerm(
+                      TypeFactor(
+                        Type(
+                         Sfera
+                        ) [Type]
+                      ) [TypeFactor]
+                    ) [SingleTerm]
+                  ) [SingleExpr]
+                ) [DesignatorAssign]
+              ) [DesignatorStatementAssign]
+            ) [DStatement]
+          ) [StatementSingle]
+        ) [StatementListHasStatements]
+        StatementSingle(
+          PrintNoNumStatement(
+            SingleExpr(
+              SingleTerm(
+                DesignatorActParsFactor(
+                  MakeNewActParmsListDesignator(
+                    DesignatorMultiple(
+                      DesignatorArray(
+                        SingleDesignator(
+                         m
+                        ) [SingleDesignator]
+                        SingleExpr(
+                          SingleTerm(
+                            NumberFactor(
+                             1
+                            ) [NumberFactor]
+                          ) [SingleTerm]
+                        ) [SingleExpr]
+                      ) [DesignatorArray]
+                     test2
+                    ) [DesignatorMultiple]
+                  ) [MakeNewActParmsListDesignator]
+                  EmptyActParsList(
+                  ) [EmptyActParsList]
+                ) [DesignatorActParsFactor]
+              ) [SingleTerm]
+            ) [SingleExpr]
+          ) [PrintNoNumStatement]
+        ) [StatementSingle]
+      ) [StatementListHasStatements]
+    ) [MethodDecl]
+  ) [SingleMethodDeclList]
+) [Program]
+INFO  20:43:46,408 - ==================SEMANTICKA OBRADA====================
+INFO  20:43:46,410 - Pristup globalnoj promenljivi Var m: Arr of Class, 0, 0  na liniji 31
+INFO  20:43:46,410 - Pristup globalnoj promenljivi Var m: Arr of Class, 0, 0  na liniji 32
+INFO  20:43:46,410 - Pristup elementu niza Var m: Arr of Class, 0, 0  na liniji 32
+INFO  20:43:46,410 - Pravljenje objekta klase Type Sfera: Class [Meth test: int, 0, 1 
+   Var this: , 0, 1 
+Meth test2: int, 0, 1 
+   Var this: , 0, 1 
+], 0, 0  na liniji 32
+INFO  20:43:46,410 - Pristup globalnoj promenljivi Var m: Arr of Class, 0, 0  na liniji 33
+INFO  20:43:46,410 - Pristup elementu niza Var m: Arr of Class, 0, 0  na liniji 33
+ERROR 20:43:46,411 - test2 ne postoji kao polje/metoda klase m[] na liniji 33
+ERROR 20:43:46,411 - noObj nije metoda. na liniji 33
+ERROR 20:43:46,411 - Operand  mora biti tipa int, char ili bool. na liniji 33
+ERROR 20:43:46,411 - Doslo je do greske kod semanticke analize.

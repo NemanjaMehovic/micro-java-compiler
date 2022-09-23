@@ -1,0 +1,25 @@
+ERROR 17:42:44,723 - Tip konstante i sama konstanta k se ne slazu. na liniji 5
+ERROR 17:42:44,723 - x nije tip. na liniji 8
+ERROR 17:42:44,724 - x nije klasa. na liniji 8
+ERROR 17:42:44,724 - Ime klase i konstruktora moraju biti isti (p, a). na liniji 11
+ERROR 17:42:44,724 - Pokusaj poziva super moetode u klasi koja ne extenduje drugu klasu. na liniji 24
+ERROR 17:42:44,771 - c je vec deklarisano u trenutnom opsegu. na liniji 32
+ERROR 17:42:44,772 - Uslov mora biti tipa bool. na liniji 45
+ERROR 17:42:44,772 - Uslov mora biti tipa bool. na liniji 47
+ERROR 17:42:44,773 - Tipovi moraju biti kompatibilni prilikom dodele. na liniji 52
+ERROR 17:42:44,773 - Break se moze koristiti samo unutar petlje.
+ERROR 17:42:44,773 - Continue se moze koristiti samo unutar petlje.
+ERROR 17:42:44,773 - Ocekuje se povratna vrednost. na liniji 61
+ERROR 17:42:44,773 - Povratna vrednost i ocekivana vrednost nisu ekvivalentni. na liniji 66
+ERROR 17:42:44,775 - Operand  mora biti tipa int, char ili bool. na liniji 75
+ERROR 17:42:44,775 - Operand  mora biti tipa int, char ili bool. na liniji 76
+ERROR 17:42:44,776 - Pokusaj poziva super moetode van klase. na liniji 86
+ERROR 17:42:44,776 - Pokusaj poziva this van klase. 
+ERROR 17:42:44,776 - Levi operand . mora biti tipa klase. na liniji 87
+ERROR 17:42:44,776 - Tipovi moraju biti kompatibilni prilikom dodele. na liniji 87
+ERROR 17:42:44,776 - Parametri nisu dobri za poziv metode sum na liniji 92
+ERROR 17:42:44,776 - Parametri nisu dobri za poziv metode sum na liniji 93
+ERROR 17:42:44,777 - Parametri nisu dobri za poziv metode sum na liniji 94
+ERROR 17:42:44,777 - Povratna vrednost i ocekivana vrednost nisu ekvivalentni. na liniji 90
+ERROR 17:42:44,777 - Povratni tip main-a mora biti void na liniji 3
+ERROR 17:42:44,777 - Doslo je do greske kod semanticke analize.

@@ -1,0 +1,36 @@
+//Test 303
+
+program test_303
+
+const int cinilac = 4, delilac = 3;
+
+class Predmet
+{
+	{
+	    int test()
+	    {
+	        return 1;
+	    }
+	}
+}
+
+class Sfera extends Predmet
+{
+	{
+	    int test2()
+	    {
+	        return 2;
+	    }
+	}
+}
+Predmet m[];
+{
+
+	void main()
+	{
+		m = new Predmet[3];
+		m[1] = new Sfera;
+		print(m[1].test2());
+
+	}
+}

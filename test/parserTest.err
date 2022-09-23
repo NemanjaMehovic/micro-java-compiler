@@ -1,0 +1,19 @@
+ERROR 15:22:24,900 - 
+Sintaksna greska na liniji 5 simbol kod
+ERROR 15:22:24,902 - Sintaksna greska prilikom definisanju promenljive na liniji 5
+ERROR 15:22:24,905 - 
+Sintaksna greska na liniji 8 simbol 1
+ERROR 15:22:24,905 - Sintaksna greska prilikom nasledjivanja na liniji 8
+ERROR 15:22:24,907 - 
+Sintaksna greska na liniji 10 simbol y
+ERROR 15:22:24,908 - Sintaksna greska prilikom definisanju promenljive na liniji 10
+ERROR 15:22:24,914 - 
+Sintaksna greska na liniji 23 simbol parametri
+ERROR 15:22:24,915 - Sintaksna greska prilikom definisanja formalnih parametra funkcije na liniji 23
+ERROR 15:22:24,919 - 
+Sintaksna greska na liniji 30 simbol ;
+ERROR 15:22:24,919 - Sintaksna greska kod if uslova na liniji 30
+ERROR 15:22:24,920 - 
+Sintaksna greska na liniji 32 simbol if
+ERROR 15:22:24,921 - Sintaksna greska prilikom dodele vrednosti na liniji 4
+ERROR 15:22:24,922 - Doslo je do greske prilikom parsiranja.

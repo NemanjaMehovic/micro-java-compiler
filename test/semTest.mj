@@ -1,0 +1,96 @@
+
+
+program parserTest
+
+const int k = true;
+int x, y, z;
+
+class a extends x
+{
+    {
+        p()
+        {
+            print(1);
+        }
+    }
+}
+
+class b
+{
+    int c;
+    {
+        void superPoziv()
+        {
+            super();
+        }
+    }
+}
+
+class c extends b
+{
+    {
+        c()
+        {
+            print(1);
+        }
+    }
+}
+
+{
+
+    void ifWhileTest()
+    {
+        do
+        {
+            if(x)
+                return;
+        }while(x);
+    }
+
+    void assignmentTest()
+    {
+        x = 'p';
+    }
+
+    void breakContinueTest()
+    {
+        break;
+        continue;
+    }
+
+    int noRetTest()
+    {
+        return;
+    }
+
+    int retCharTest()
+    {
+        return 'c';
+    }
+
+    void printReadRefTest()
+    b q;
+    {
+        q = new b;
+        print(q);
+        read(q);
+    }
+
+    int sum(int x, int y = 3)
+    {
+        return x + y;
+    }
+
+    void superThisTest()
+    {
+        super();
+        x = this.c;
+    }
+
+    int main()
+    {
+        sum(1,2,3);
+        sum('x');
+        return sum('c',2);
+    }
+}

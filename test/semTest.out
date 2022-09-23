@@ -1,0 +1,924 @@
+INFO  17:42:44,584 - Compiling source file: C:\Users\neman\Desktop\PP_projekat\MJCompiler\test\test.mj
+INFO  17:42:44,666 - #2 program
+INFO  17:42:44,667 - #49 parserTest
+INFO  17:42:44,667 - #6 const
+INFO  17:42:44,668 - #49 int
+INFO  17:42:44,668 - #49 k
+INFO  17:42:44,669 - #35 =
+INFO  17:42:44,669 - #50 true
+INFO  17:42:44,669 - #38 ;
+INFO  17:42:44,669 - #49 int
+INFO  17:42:44,670 - #49 x
+INFO  17:42:44,670 - #40 ,
+INFO  17:42:44,671 - #49 y
+INFO  17:42:44,671 - #40 ,
+INFO  17:42:44,671 - #49 z
+INFO  17:42:44,671 - #38 ;
+INFO  17:42:44,671 - #4 class
+INFO  17:42:44,672 - #49 a
+INFO  17:42:44,672 - #11 extends
+INFO  17:42:44,672 - #49 x
+INFO  17:42:44,672 - #46 {
+INFO  17:42:44,673 - #46 {
+INFO  17:42:44,673 - #49 p
+INFO  17:42:44,674 - #42 (
+INFO  17:42:44,674 - #43 )
+INFO  17:42:44,674 - #46 {
+INFO  17:42:44,675 - #8 print
+INFO  17:42:44,675 - #42 (
+INFO  17:42:44,676 - #48 1
+INFO  17:42:44,676 - #43 )
+INFO  17:42:44,676 - #38 ;
+INFO  17:42:44,676 - #47 }
+INFO  17:42:44,676 - #47 }
+INFO  17:42:44,677 - #47 }
+INFO  17:42:44,677 - #4 class
+INFO  17:42:44,678 - #49 b
+INFO  17:42:44,678 - #46 {
+INFO  17:42:44,679 - #49 int
+INFO  17:42:44,679 - #49 c
+INFO  17:42:44,679 - #38 ;
+INFO  17:42:44,679 - #46 {
+INFO  17:42:44,679 - #10 void
+INFO  17:42:44,679 - #49 superPoziv
+INFO  17:42:44,679 - #42 (
+INFO  17:42:44,679 - #43 )
+INFO  17:42:44,680 - #46 {
+INFO  17:42:44,681 - #13 super
+INFO  17:42:44,681 - #42 (
+INFO  17:42:44,682 - #43 )
+INFO  17:42:44,683 - #38 ;
+INFO  17:42:44,683 - #47 }
+INFO  17:42:44,683 - #47 }
+INFO  17:42:44,684 - #47 }
+INFO  17:42:44,684 - #4 class
+INFO  17:42:44,684 - #49 c
+INFO  17:42:44,684 - #11 extends
+INFO  17:42:44,684 - #49 b
+INFO  17:42:44,684 - #46 {
+INFO  17:42:44,684 - #46 {
+INFO  17:42:44,684 - #49 c
+INFO  17:42:44,684 - #42 (
+INFO  17:42:44,684 - #43 )
+INFO  17:42:44,684 - #46 {
+INFO  17:42:44,684 - #8 print
+INFO  17:42:44,685 - #42 (
+INFO  17:42:44,685 - #48 1
+INFO  17:42:44,685 - #43 )
+INFO  17:42:44,685 - #38 ;
+INFO  17:42:44,685 - #47 }
+INFO  17:42:44,685 - #47 }
+INFO  17:42:44,685 - #47 }
+INFO  17:42:44,685 - #46 {
+INFO  17:42:44,685 - #10 void
+INFO  17:42:44,685 - #49 ifWhileTest
+INFO  17:42:44,685 - #42 (
+INFO  17:42:44,685 - #43 )
+INFO  17:42:44,685 - #46 {
+INFO  17:42:44,685 - #18 do
+INFO  17:42:44,685 - #46 {
+INFO  17:42:44,686 - #16 if
+INFO  17:42:44,686 - #42 (
+INFO  17:42:44,687 - #49 x
+INFO  17:42:44,687 - #43 )
+INFO  17:42:44,688 - #20 return
+INFO  17:42:44,688 - #38 ;
+INFO  17:42:44,688 - #47 }
+INFO  17:42:44,689 - #19 while
+INFO  17:42:44,690 - #42 (
+INFO  17:42:44,690 - #49 x
+INFO  17:42:44,690 - #43 )
+INFO  17:42:44,691 - #38 ;
+INFO  17:42:44,691 - #47 }
+INFO  17:42:44,691 - #10 void
+INFO  17:42:44,691 - #49 assignmentTest
+INFO  17:42:44,691 - #42 (
+INFO  17:42:44,691 - #43 )
+INFO  17:42:44,691 - #46 {
+INFO  17:42:44,691 - #49 x
+INFO  17:42:44,691 - #35 =
+INFO  17:42:44,691 - #51 p
+INFO  17:42:44,693 - #38 ;
+INFO  17:42:44,693 - #47 }
+INFO  17:42:44,693 - #10 void
+INFO  17:42:44,693 - #49 breakContinueTest
+INFO  17:42:44,693 - #42 (
+INFO  17:42:44,693 - #43 )
+INFO  17:42:44,693 - #46 {
+INFO  17:42:44,693 - #15 break
+INFO  17:42:44,693 - #38 ;
+INFO  17:42:44,693 - #21 continue
+INFO  17:42:44,694 - #38 ;
+INFO  17:42:44,694 - #47 }
+INFO  17:42:44,695 - #49 int
+INFO  17:42:44,695 - #49 noRetTest
+INFO  17:42:44,695 - #42 (
+INFO  17:42:44,696 - #43 )
+INFO  17:42:44,696 - #46 {
+INFO  17:42:44,696 - #20 return
+INFO  17:42:44,696 - #38 ;
+INFO  17:42:44,696 - #47 }
+INFO  17:42:44,696 - #49 int
+INFO  17:42:44,696 - #49 retCharTest
+INFO  17:42:44,696 - #42 (
+INFO  17:42:44,696 - #43 )
+INFO  17:42:44,696 - #46 {
+INFO  17:42:44,696 - #20 return
+INFO  17:42:44,696 - #51 c
+INFO  17:42:44,696 - #38 ;
+INFO  17:42:44,696 - #47 }
+INFO  17:42:44,696 - #10 void
+INFO  17:42:44,696 - #49 printReadRefTest
+INFO  17:42:44,696 - #42 (
+INFO  17:42:44,696 - #43 )
+INFO  17:42:44,696 - #49 b
+INFO  17:42:44,697 - #49 q
+INFO  17:42:44,697 - #38 ;
+INFO  17:42:44,697 - #46 {
+INFO  17:42:44,697 - #49 q
+INFO  17:42:44,697 - #35 =
+INFO  17:42:44,697 - #7 new
+INFO  17:42:44,697 - #49 b
+INFO  17:42:44,697 - #38 ;
+INFO  17:42:44,697 - #8 print
+INFO  17:42:44,697 - #42 (
+INFO  17:42:44,697 - #49 q
+INFO  17:42:44,697 - #43 )
+INFO  17:42:44,697 - #38 ;
+INFO  17:42:44,698 - #9 read
+INFO  17:42:44,698 - #42 (
+INFO  17:42:44,698 - #49 q
+INFO  17:42:44,698 - #43 )
+INFO  17:42:44,698 - #38 ;
+INFO  17:42:44,698 - #47 }
+INFO  17:42:44,698 - #49 int
+INFO  17:42:44,698 - #49 sum
+INFO  17:42:44,698 - #42 (
+INFO  17:42:44,698 - #49 int
+INFO  17:42:44,698 - #49 x
+INFO  17:42:44,698 - #40 ,
+INFO  17:42:44,698 - #49 int
+INFO  17:42:44,698 - #49 y
+INFO  17:42:44,698 - #35 =
+INFO  17:42:44,698 - #48 3
+INFO  17:42:44,698 - #43 )
+INFO  17:42:44,699 - #46 {
+INFO  17:42:44,700 - #20 return
+INFO  17:42:44,700 - #49 x
+INFO  17:42:44,700 - #30 +
+INFO  17:42:44,700 - #49 y
+INFO  17:42:44,701 - #38 ;
+INFO  17:42:44,701 - #47 }
+INFO  17:42:44,701 - #10 void
+INFO  17:42:44,701 - #49 superThisTest
+INFO  17:42:44,701 - #42 (
+INFO  17:42:44,701 - #43 )
+INFO  17:42:44,702 - #46 {
+INFO  17:42:44,702 - #13 super
+INFO  17:42:44,702 - #42 (
+INFO  17:42:44,702 - #43 )
+INFO  17:42:44,702 - #38 ;
+INFO  17:42:44,702 - #49 x
+INFO  17:42:44,702 - #35 =
+INFO  17:42:44,702 - #12 this
+INFO  17:42:44,702 - #41 .
+INFO  17:42:44,703 - #49 c
+INFO  17:42:44,703 - #38 ;
+INFO  17:42:44,703 - #47 }
+INFO  17:42:44,703 - #49 int
+INFO  17:42:44,703 - #49 main
+INFO  17:42:44,703 - #42 (
+INFO  17:42:44,703 - #43 )
+INFO  17:42:44,703 - #46 {
+INFO  17:42:44,703 - #49 sum
+INFO  17:42:44,703 - #42 (
+INFO  17:42:44,704 - #48 1
+INFO  17:42:44,704 - #40 ,
+INFO  17:42:44,704 - #48 2
+INFO  17:42:44,704 - #40 ,
+INFO  17:42:44,705 - #48 3
+INFO  17:42:44,705 - #43 )
+INFO  17:42:44,705 - #38 ;
+INFO  17:42:44,705 - #49 sum
+INFO  17:42:44,705 - #42 (
+INFO  17:42:44,705 - #51 x
+INFO  17:42:44,705 - #43 )
+INFO  17:42:44,705 - #38 ;
+INFO  17:42:44,705 - #20 return
+INFO  17:42:44,705 - #49 sum
+INFO  17:42:44,705 - #42 (
+INFO  17:42:44,705 - #51 c
+INFO  17:42:44,705 - #40 ,
+INFO  17:42:44,705 - #48 2
+INFO  17:42:44,705 - #43 )
+INFO  17:42:44,705 - #38 ;
+INFO  17:42:44,705 - #47 }
+INFO  17:42:44,705 - #47 }
+INFO  17:42:44,707 - Parsiranje uspesno zavrseno.
+INFO  17:42:44,710 - Program(
+  ProgramName(
+   parserTest
+  ) [ProgramName]
+  MultipleDecl(
+    MultipleDecl(
+      MultipleDecl(
+        MultipleDecl(
+          MultipleDecl(
+            EmptyDeclList(
+            ) [EmptyDeclList]
+            ConstDeclD(
+              ConstD(
+                ConstTypeName(
+                  Type(
+                   int
+                  ) [Type]
+                ) [ConstTypeName]
+                SingleConst(
+                  BooleanConst(
+                   k
+                   true
+                  ) [BooleanConst]
+                ) [SingleConst]
+              ) [ConstD]
+            ) [ConstDeclD]
+          ) [MultipleDecl]
+          VarDeclD(
+            VarD(
+              Type(
+               int
+              ) [Type]
+              MultipleVar(
+                MultipleVar(
+                  SingleVar(
+                    NonArrayVar(
+                     x
+                    ) [NonArrayVar]
+                  ) [SingleVar]
+                  NonArrayVar(
+                   y
+                  ) [NonArrayVar]
+                ) [MultipleVar]
+                NonArrayVar(
+                 z
+                ) [NonArrayVar]
+              ) [MultipleVar]
+            ) [VarD]
+          ) [VarDeclD]
+        ) [MultipleDecl]
+        ClassDeclD(
+          ClassDecl(
+            ClassName(
+             a
+            ) [ClassName]
+            ClassEx(
+              Type(
+               x
+              ) [Type]
+            ) [ClassEx]
+            EmptyVarDeclList(
+            ) [EmptyVarDeclList]
+            ClassMethodsBodyOnlyConstructor(
+              ConstructorDecl(
+                ConstructorName(
+                 p
+                ) [ConstructorName]
+                EmptyVarDeclListNoError(
+                ) [EmptyVarDeclListNoError]
+                StatementListHasStatements(
+                  EmptyStatementList(
+                  ) [EmptyStatementList]
+                  StatementSingle(
+                    PrintNoNumStatement(
+                      SingleExpr(
+                        SingleTerm(
+                          NumberFactor(
+                           1
+                          ) [NumberFactor]
+                        ) [SingleTerm]
+                      ) [SingleExpr]
+                    ) [PrintNoNumStatement]
+                  ) [StatementSingle]
+                ) [StatementListHasStatements]
+              ) [ConstructorDecl]
+            ) [ClassMethodsBodyOnlyConstructor]
+          ) [ClassDecl]
+        ) [ClassDeclD]
+      ) [MultipleDecl]
+      ClassDeclD(
+        ClassDecl(
+          ClassName(
+           b
+          ) [ClassName]
+          EmptyClassEx(
+          ) [EmptyClassEx]
+          VarDeclListHasItems(
+            EmptyVarDeclList(
+            ) [EmptyVarDeclList]
+            VarD(
+              Type(
+               int
+              ) [Type]
+              SingleVar(
+                NonArrayVar(
+                 c
+                ) [NonArrayVar]
+              ) [SingleVar]
+            ) [VarD]
+          ) [VarDeclListHasItems]
+          ClassMethodsBodyNoConstructor(
+            SingleMethodDeclList(
+              MethodDecl(
+                MethodVoid(
+                 superPoziv
+                ) [MethodVoid]
+                EmptyMethodParams(
+                ) [EmptyMethodParams]
+                MethodSigEnd(
+                ) [MethodSigEnd]
+                EmptyVarDeclListNoError(
+                ) [EmptyVarDeclListNoError]
+                StatementListHasStatements(
+                  EmptyStatementList(
+                  ) [EmptyStatementList]
+                  StatementSingle(
+                    DStatement(
+                      DesignatorStatementSuper(
+                        MakeNewActParmsListSuper(
+                        ) [MakeNewActParmsListSuper]
+                        EmptyActParsList(
+                        ) [EmptyActParsList]
+                      ) [DesignatorStatementSuper]
+                    ) [DStatement]
+                  ) [StatementSingle]
+                ) [StatementListHasStatements]
+              ) [MethodDecl]
+            ) [SingleMethodDeclList]
+          ) [ClassMethodsBodyNoConstructor]
+        ) [ClassDecl]
+      ) [ClassDeclD]
+    ) [MultipleDecl]
+    ClassDeclD(
+      ClassDecl(
+        ClassName(
+         c
+        ) [ClassName]
+        ClassEx(
+          Type(
+           b
+          ) [Type]
+        ) [ClassEx]
+        EmptyVarDeclList(
+        ) [EmptyVarDeclList]
+        ClassMethodsBodyOnlyConstructor(
+          ConstructorDecl(
+            ConstructorName(
+             c
+            ) [ConstructorName]
+            EmptyVarDeclListNoError(
+            ) [EmptyVarDeclListNoError]
+            StatementListHasStatements(
+              EmptyStatementList(
+              ) [EmptyStatementList]
+              StatementSingle(
+                PrintNoNumStatement(
+                  SingleExpr(
+                    SingleTerm(
+                      NumberFactor(
+                       1
+                      ) [NumberFactor]
+                    ) [SingleTerm]
+                  ) [SingleExpr]
+                ) [PrintNoNumStatement]
+              ) [StatementSingle]
+            ) [StatementListHasStatements]
+          ) [ConstructorDecl]
+        ) [ClassMethodsBodyOnlyConstructor]
+      ) [ClassDecl]
+    ) [ClassDeclD]
+  ) [MultipleDecl]
+  MethodDList(
+    MethodDList(
+      MethodDList(
+        MethodDList(
+          MethodDList(
+            MethodDList(
+              MethodDList(
+                MethodDList(
+                  SingleMethodDeclList(
+                    MethodDecl(
+                      MethodVoid(
+                       ifWhileTest
+                      ) [MethodVoid]
+                      EmptyMethodParams(
+                      ) [EmptyMethodParams]
+                      MethodSigEnd(
+                      ) [MethodSigEnd]
+                      EmptyVarDeclListNoError(
+                      ) [EmptyVarDeclListNoError]
+                      StatementListHasStatements(
+                        EmptyStatementList(
+                        ) [EmptyStatementList]
+                        StatementSingle(
+                          DoWhileStatement(
+                            DoForCheck(
+                            ) [DoForCheck]
+                            StatementsMultiple(
+                              Block(
+                                StatementListHasStatements(
+                                  EmptyStatementList(
+                                  ) [EmptyStatementList]
+                                  StatementSingle(
+                                    IfStatement(
+                                      IfForGen(
+                                      ) [IfForGen]
+                                      IfCondition(
+                                        SingleCondition(
+                                          SingleCondTerm(
+                                            CondFactNoRelop(
+                                              SingleExpr(
+                                                SingleTerm(
+                                                  DesignatorFactor(
+                                                    SingleDesignator(
+                                                     x
+                                                    ) [SingleDesignator]
+                                                  ) [DesignatorFactor]
+                                                ) [SingleTerm]
+                                              ) [SingleExpr]
+                                            ) [CondFactNoRelop]
+                                          ) [SingleCondTerm]
+                                        ) [SingleCondition]
+                                      ) [IfCondition]
+                                      StatementSingle(
+                                        ReturnNoExprStatement(
+                                        ) [ReturnNoExprStatement]
+                                      ) [StatementSingle]
+                                    ) [IfStatement]
+                                  ) [StatementSingle]
+                                ) [StatementListHasStatements]
+                              ) [Block]
+                            ) [StatementsMultiple]
+                            WhileForGen(
+                            ) [WhileForGen]
+                            SingleCondition(
+                              SingleCondTerm(
+                                CondFactNoRelop(
+                                  SingleExpr(
+                                    SingleTerm(
+                                      DesignatorFactor(
+                                        SingleDesignator(
+                                         x
+                                        ) [SingleDesignator]
+                                      ) [DesignatorFactor]
+                                    ) [SingleTerm]
+                                  ) [SingleExpr]
+                                ) [CondFactNoRelop]
+                              ) [SingleCondTerm]
+                            ) [SingleCondition]
+                          ) [DoWhileStatement]
+                        ) [StatementSingle]
+                      ) [StatementListHasStatements]
+                    ) [MethodDecl]
+                  ) [SingleMethodDeclList]
+                  MethodDecl(
+                    MethodVoid(
+                     assignmentTest
+                    ) [MethodVoid]
+                    EmptyMethodParams(
+                    ) [EmptyMethodParams]
+                    MethodSigEnd(
+                    ) [MethodSigEnd]
+                    EmptyVarDeclListNoError(
+                    ) [EmptyVarDeclListNoError]
+                    StatementListHasStatements(
+                      EmptyStatementList(
+                      ) [EmptyStatementList]
+                      StatementSingle(
+                        DStatement(
+                          DesignatorStatementAssign(
+                            DesignatorAssign(
+                              SingleDesignator(
+                               x
+                              ) [SingleDesignator]
+                              Assign(
+                              ) [Assign]
+                              SingleExpr(
+                                SingleTerm(
+                                  CharFactor(
+                                   p
+                                  ) [CharFactor]
+                                ) [SingleTerm]
+                              ) [SingleExpr]
+                            ) [DesignatorAssign]
+                          ) [DesignatorStatementAssign]
+                        ) [DStatement]
+                      ) [StatementSingle]
+                    ) [StatementListHasStatements]
+                  ) [MethodDecl]
+                ) [MethodDList]
+                MethodDecl(
+                  MethodVoid(
+                   breakContinueTest
+                  ) [MethodVoid]
+                  EmptyMethodParams(
+                  ) [EmptyMethodParams]
+                  MethodSigEnd(
+                  ) [MethodSigEnd]
+                  EmptyVarDeclListNoError(
+                  ) [EmptyVarDeclListNoError]
+                  StatementListHasStatements(
+                    StatementListHasStatements(
+                      EmptyStatementList(
+                      ) [EmptyStatementList]
+                      StatementSingle(
+                        BreakStatement(
+                        ) [BreakStatement]
+                      ) [StatementSingle]
+                    ) [StatementListHasStatements]
+                    StatementSingle(
+                      ContinueStatement(
+                      ) [ContinueStatement]
+                    ) [StatementSingle]
+                  ) [StatementListHasStatements]
+                ) [MethodDecl]
+              ) [MethodDList]
+              MethodDecl(
+                MethodType(
+                  Type(
+                   int
+                  ) [Type]
+                 noRetTest
+                ) [MethodType]
+                EmptyMethodParams(
+                ) [EmptyMethodParams]
+                MethodSigEnd(
+                ) [MethodSigEnd]
+                EmptyVarDeclListNoError(
+                ) [EmptyVarDeclListNoError]
+                StatementListHasStatements(
+                  EmptyStatementList(
+                  ) [EmptyStatementList]
+                  StatementSingle(
+                    ReturnNoExprStatement(
+                    ) [ReturnNoExprStatement]
+                  ) [StatementSingle]
+                ) [StatementListHasStatements]
+              ) [MethodDecl]
+            ) [MethodDList]
+            MethodDecl(
+              MethodType(
+                Type(
+                 int
+                ) [Type]
+               retCharTest
+              ) [MethodType]
+              EmptyMethodParams(
+              ) [EmptyMethodParams]
+              MethodSigEnd(
+              ) [MethodSigEnd]
+              EmptyVarDeclListNoError(
+              ) [EmptyVarDeclListNoError]
+              StatementListHasStatements(
+                EmptyStatementList(
+                ) [EmptyStatementList]
+                StatementSingle(
+                  ReturnExprStatement(
+                    SingleExpr(
+                      SingleTerm(
+                        CharFactor(
+                         c
+                        ) [CharFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                  ) [ReturnExprStatement]
+                ) [StatementSingle]
+              ) [StatementListHasStatements]
+            ) [MethodDecl]
+          ) [MethodDList]
+          MethodDecl(
+            MethodVoid(
+             printReadRefTest
+            ) [MethodVoid]
+            EmptyMethodParams(
+            ) [EmptyMethodParams]
+            MethodSigEnd(
+            ) [MethodSigEnd]
+            VarDeclListNoErrorHasItems(
+              EmptyVarDeclListNoError(
+              ) [EmptyVarDeclListNoError]
+              VarDNoError(
+                Type(
+                 b
+                ) [Type]
+                SingleVarNoError(
+                  NonArrayVarNoError(
+                   q
+                  ) [NonArrayVarNoError]
+                ) [SingleVarNoError]
+              ) [VarDNoError]
+            ) [VarDeclListNoErrorHasItems]
+            StatementListHasStatements(
+              StatementListHasStatements(
+                StatementListHasStatements(
+                  EmptyStatementList(
+                  ) [EmptyStatementList]
+                  StatementSingle(
+                    DStatement(
+                      DesignatorStatementAssign(
+                        DesignatorAssign(
+                          SingleDesignator(
+                           q
+                          ) [SingleDesignator]
+                          Assign(
+                          ) [Assign]
+                          SingleExpr(
+                            SingleTerm(
+                              TypeFactor(
+                                Type(
+                                 b
+                                ) [Type]
+                              ) [TypeFactor]
+                            ) [SingleTerm]
+                          ) [SingleExpr]
+                        ) [DesignatorAssign]
+                      ) [DesignatorStatementAssign]
+                    ) [DStatement]
+                  ) [StatementSingle]
+                ) [StatementListHasStatements]
+                StatementSingle(
+                  PrintNoNumStatement(
+                    SingleExpr(
+                      SingleTerm(
+                        DesignatorFactor(
+                          SingleDesignator(
+                           q
+                          ) [SingleDesignator]
+                        ) [DesignatorFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                  ) [PrintNoNumStatement]
+                ) [StatementSingle]
+              ) [StatementListHasStatements]
+              StatementSingle(
+                ReadStatement(
+                  SingleDesignator(
+                   q
+                  ) [SingleDesignator]
+                ) [ReadStatement]
+              ) [StatementSingle]
+            ) [StatementListHasStatements]
+          ) [MethodDecl]
+        ) [MethodDList]
+        MethodDecl(
+          MethodType(
+            Type(
+             int
+            ) [Type]
+           sum
+          ) [MethodType]
+          MethodParamsWithBoth(
+            SingleFormParsList(
+              FormParsNonArray(
+                Type(
+                 int
+                ) [Type]
+               x
+              ) [FormParsNonArray]
+            ) [SingleFormParsList]
+            SingleOptArgsList(
+              OptArgs(
+                Type(
+                 int
+                ) [Type]
+                NumberOptArg(
+                 y
+                 3
+                ) [NumberOptArg]
+              ) [OptArgs]
+            ) [SingleOptArgsList]
+          ) [MethodParamsWithBoth]
+          MethodSigEnd(
+          ) [MethodSigEnd]
+          EmptyVarDeclListNoError(
+          ) [EmptyVarDeclListNoError]
+          StatementListHasStatements(
+            EmptyStatementList(
+            ) [EmptyStatementList]
+            StatementSingle(
+              ReturnExprStatement(
+                ExprMultiple(
+                  SingleExpr(
+                    SingleTerm(
+                      DesignatorFactor(
+                        SingleDesignator(
+                         x
+                        ) [SingleDesignator]
+                      ) [DesignatorFactor]
+                    ) [SingleTerm]
+                  ) [SingleExpr]
+                  AddOpPlus(
+                  ) [AddOpPlus]
+                  SingleTerm(
+                    DesignatorFactor(
+                      SingleDesignator(
+                       y
+                      ) [SingleDesignator]
+                    ) [DesignatorFactor]
+                  ) [SingleTerm]
+                ) [ExprMultiple]
+              ) [ReturnExprStatement]
+            ) [StatementSingle]
+          ) [StatementListHasStatements]
+        ) [MethodDecl]
+      ) [MethodDList]
+      MethodDecl(
+        MethodVoid(
+         superThisTest
+        ) [MethodVoid]
+        EmptyMethodParams(
+        ) [EmptyMethodParams]
+        MethodSigEnd(
+        ) [MethodSigEnd]
+        EmptyVarDeclListNoError(
+        ) [EmptyVarDeclListNoError]
+        StatementListHasStatements(
+          StatementListHasStatements(
+            EmptyStatementList(
+            ) [EmptyStatementList]
+            StatementSingle(
+              DStatement(
+                DesignatorStatementSuper(
+                  MakeNewActParmsListSuper(
+                  ) [MakeNewActParmsListSuper]
+                  EmptyActParsList(
+                  ) [EmptyActParsList]
+                ) [DesignatorStatementSuper]
+              ) [DStatement]
+            ) [StatementSingle]
+          ) [StatementListHasStatements]
+          StatementSingle(
+            DStatement(
+              DesignatorStatementAssign(
+                DesignatorAssign(
+                  SingleDesignator(
+                   x
+                  ) [SingleDesignator]
+                  Assign(
+                  ) [Assign]
+                  SingleExpr(
+                    SingleTerm(
+                      DesignatorFactor(
+                        DesignatorMultiple(
+                          DesignatorThis(
+                          ) [DesignatorThis]
+                         c
+                        ) [DesignatorMultiple]
+                      ) [DesignatorFactor]
+                    ) [SingleTerm]
+                  ) [SingleExpr]
+                ) [DesignatorAssign]
+              ) [DesignatorStatementAssign]
+            ) [DStatement]
+          ) [StatementSingle]
+        ) [StatementListHasStatements]
+      ) [MethodDecl]
+    ) [MethodDList]
+    MethodDecl(
+      MethodType(
+        Type(
+         int
+        ) [Type]
+       main
+      ) [MethodType]
+      EmptyMethodParams(
+      ) [EmptyMethodParams]
+      MethodSigEnd(
+      ) [MethodSigEnd]
+      EmptyVarDeclListNoError(
+      ) [EmptyVarDeclListNoError]
+      StatementListHasStatements(
+        StatementListHasStatements(
+          StatementListHasStatements(
+            EmptyStatementList(
+            ) [EmptyStatementList]
+            StatementSingle(
+              DStatement(
+                DesignatorStatementAct(
+                  MakeNewActParmsListDesignator(
+                    SingleDesignator(
+                     sum
+                    ) [SingleDesignator]
+                  ) [MakeNewActParmsListDesignator]
+                  ActParsListExists(
+                    ActParsMultiple(
+                      ActParsMultiple(
+                        ActParsSingle(
+                          SingleExpr(
+                            SingleTerm(
+                              NumberFactor(
+                               1
+                              ) [NumberFactor]
+                            ) [SingleTerm]
+                          ) [SingleExpr]
+                        ) [ActParsSingle]
+                        SingleExpr(
+                          SingleTerm(
+                            NumberFactor(
+                             2
+                            ) [NumberFactor]
+                          ) [SingleTerm]
+                        ) [SingleExpr]
+                      ) [ActParsMultiple]
+                      SingleExpr(
+                        SingleTerm(
+                          NumberFactor(
+                           3
+                          ) [NumberFactor]
+                        ) [SingleTerm]
+                      ) [SingleExpr]
+                    ) [ActParsMultiple]
+                  ) [ActParsListExists]
+                ) [DesignatorStatementAct]
+              ) [DStatement]
+            ) [StatementSingle]
+          ) [StatementListHasStatements]
+          StatementSingle(
+            DStatement(
+              DesignatorStatementAct(
+                MakeNewActParmsListDesignator(
+                  SingleDesignator(
+                   sum
+                  ) [SingleDesignator]
+                ) [MakeNewActParmsListDesignator]
+                ActParsListExists(
+                  ActParsSingle(
+                    SingleExpr(
+                      SingleTerm(
+                        CharFactor(
+                         x
+                        ) [CharFactor]
+                      ) [SingleTerm]
+                    ) [SingleExpr]
+                  ) [ActParsSingle]
+                ) [ActParsListExists]
+              ) [DesignatorStatementAct]
+            ) [DStatement]
+          ) [StatementSingle]
+        ) [StatementListHasStatements]
+        StatementSingle(
+          ReturnExprStatement(
+            SingleExpr(
+              SingleTerm(
+                DesignatorActParsFactor(
+                  MakeNewActParmsListDesignator(
+                    SingleDesignator(
+                     sum
+                    ) [SingleDesignator]
+                  ) [MakeNewActParmsListDesignator]
+                  ActParsListExists(
+                    ActParsMultiple(
+                      ActParsSingle(
+                        SingleExpr(
+                          SingleTerm(
+                            CharFactor(
+                             c
+                            ) [CharFactor]
+                          ) [SingleTerm]
+                        ) [SingleExpr]
+                      ) [ActParsSingle]
+                      SingleExpr(
+                        SingleTerm(
+                          NumberFactor(
+                           2
+                          ) [NumberFactor]
+                        ) [SingleTerm]
+                      ) [SingleExpr]
+                    ) [ActParsMultiple]
+                  ) [ActParsListExists]
+                ) [DesignatorActParsFactor]
+              ) [SingleTerm]
+            ) [SingleExpr]
+          ) [ReturnExprStatement]
+        ) [StatementSingle]
+      ) [StatementListHasStatements]
+    ) [MethodDecl]
+  ) [MethodDList]
+) [Program]
+INFO  17:42:44,723 - ==================SEMANTICKA OBRADA====================
+INFO  17:42:44,772 - Pristup globalnoj promenljivi Var x: int, 0, 0  na liniji 45
+INFO  17:42:44,772 - Pristup globalnoj promenljivi Var x: int, 0, 0  na liniji 47
+INFO  17:42:44,772 - Pristup globalnoj promenljivi Var x: int, 0, 0  na liniji 52
+INFO  17:42:44,775 - Pristup lokalnoj promenljivi Var q: Class [Fld c: int, 1, 1 Meth superPoziv: notype, 0, 1 
+   Var this: , 0, 1 
+], 0, 1  na liniji 74
+INFO  17:42:44,775 - Pravljenje objekta klase Type b: Class [Fld c: int, 1, 1 Meth superPoziv: notype, 0, 1 
+   Var this: , 0, 1 
+], 0, 0  na liniji 74
+INFO  17:42:44,775 - Pristup lokalnoj promenljivi Var q: Class [Fld c: int, 1, 1 Meth superPoziv: notype, 0, 1 
+   Var this: , 0, 1 
+], 0, 1  na liniji 75
+INFO  17:42:44,775 - Pristup lokalnoj promenljivi Var q: Class [Fld c: int, 1, 1 Meth superPoziv: notype, 0, 1 
+   Var this: , 0, 1 
+], 0, 1  na liniji 76
+INFO  17:42:44,776 - Pristup parametru metode Var x: int, 0, 1  na liniji 81
+INFO  17:42:44,776 - Pristup parametru metode Var y: int, 1, 1  na liniji 81
+INFO  17:42:44,776 - Pristup globalnoj promenljivi Var x: int, 0, 0  na liniji 87
